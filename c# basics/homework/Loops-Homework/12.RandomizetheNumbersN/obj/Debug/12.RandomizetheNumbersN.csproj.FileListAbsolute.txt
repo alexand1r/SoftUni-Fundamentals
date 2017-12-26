@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Loops-Homework\12.RandomizetheNumbersN\bin\Debug\12.RandomizetheNumbersN.exe.config
+E:\softuni\real\c#\Loops-Homework\12.RandomizetheNumbersN\bin\Debug\12.RandomizetheNumbersN.exe
+E:\softuni\real\c#\Loops-Homework\12.RandomizetheNumbersN\bin\Debug\12.RandomizetheNumbersN.pdb
+E:\softuni\real\c#\Loops-Homework\12.RandomizetheNumbersN\obj\Debug\12.RandomizetheNumbersN.exe
+E:\softuni\real\c#\Loops-Homework\12.RandomizetheNumbersN\obj\Debug\12.RandomizetheNumbersN.pdb
+E:\softuni\real\c#\Loops-Homework\12.RandomizetheNumbersN\obj\Debug\12.RandomizetheNumbersN.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+Hello, Vlado Kuzov
+Client id: 7523
+Total balance: 0.05
+Active: yes

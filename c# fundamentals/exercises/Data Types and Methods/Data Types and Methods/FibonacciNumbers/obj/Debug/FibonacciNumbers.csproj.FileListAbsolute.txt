@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\FibonacciNumbers\obj\Debug\FibonacciNumbers.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

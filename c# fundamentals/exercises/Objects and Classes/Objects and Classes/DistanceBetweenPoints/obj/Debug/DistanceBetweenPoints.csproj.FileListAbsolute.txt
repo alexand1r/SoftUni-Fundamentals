@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.pdb

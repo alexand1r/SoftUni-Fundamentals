@@ -1,0 +1,9 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\05.XBits\bin\Debug\05.XBits.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\05.XBits\bin\Debug\05.XBits.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\05.XBits\bin\Debug\05.XBits.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\05.XBits\obj\Debug\05.XBits.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\05.XBits\obj\Debug\05.XBits.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\05.XBits\obj\Debug\05.XBits.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\05.XBits\bin\Debug\05.XBits.exe.config
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\05.XBits\obj\Debug\05.XBits.exe
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\05.XBits\obj\Debug\05.XBits.pdb

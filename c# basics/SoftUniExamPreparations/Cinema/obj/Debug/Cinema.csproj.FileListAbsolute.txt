@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Cinema\bin\Debug\Cinema.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\Cinema\bin\Debug\Cinema.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Cinema\bin\Debug\Cinema.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\Cinema\obj\Debug\Cinema.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Cinema\obj\Debug\Cinema.pdb

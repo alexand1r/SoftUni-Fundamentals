@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\KingOfThieves\bin\Debug\KingOfThieves.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\KingOfThieves\obj\Debug\KingOfThieves.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\KingOfThieves\bin\Debug\KingOfThieves.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\KingOfThieves\bin\Debug\KingOfThieves.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\KingOfThieves\obj\Debug\KingOfThieves.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\KingOfThieves\obj\Debug\KingOfThieves.pdb

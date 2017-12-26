@@ -1,0 +1,5 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\1.PrintingNumbers\bin\Debug\1.PrintingNumbers.exe.config
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\1.PrintingNumbers\bin\Debug\1.PrintingNumbers.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\1.PrintingNumbers\bin\Debug\1.PrintingNumbers.pdb
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\1.PrintingNumbers\obj\Debug\1.PrintingNumbers.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\1.PrintingNumbers\obj\Debug\1.PrintingNumbers.pdb

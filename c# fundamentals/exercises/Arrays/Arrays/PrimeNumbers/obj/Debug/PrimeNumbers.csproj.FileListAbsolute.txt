@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache

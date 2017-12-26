@@ -1,0 +1,1 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\BigFactorial\bin\Debug\BigFactorial.exe.config

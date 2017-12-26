@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\FitStringIn20Chars\bin\Debug\FitStringIn20Chars.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\FitStringIn20Chars\bin\Debug\FitStringIn20Chars.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\FitStringIn20Chars\bin\Debug\FitStringIn20Chars.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\FitStringIn20Chars\obj\Debug\FitStringIn20Chars.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\FitStringIn20Chars\obj\Debug\FitStringIn20Chars.pdb

@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Boat\bin\Debug\Boat.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\Boat\bin\Debug\Boat.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Boat\bin\Debug\Boat.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\Boat\obj\Debug\Boat.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\Boat\obj\Debug\Boat.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Boat\obj\Debug\Boat.pdb

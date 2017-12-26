@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\3. HouseWithAWindow\bin\Debug\_3.HouseWithAWindow.exe.config
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\3. HouseWithAWindow\bin\Debug\_3.HouseWithAWindow.exe
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\3. HouseWithAWindow\bin\Debug\_3.HouseWithAWindow.pdb
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\3. HouseWithAWindow\obj\Debug\_3.HouseWithAWindow.exe
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\3. HouseWithAWindow\obj\Debug\_3.HouseWithAWindow.pdb
+E:\softuni\real\c#\stuff\8. CSharp-Basics-Exam-Preparation-Yordan-Darakchiev\CSharp Basics Exam Preparation - 25 July 2014 Morning\3. HouseWithAWindow\bin\Debug\_3.HouseWithAWindow.exe.config
+E:\softuni\real\c#\stuff\8. CSharp-Basics-Exam-Preparation-Yordan-Darakchiev\CSharp Basics Exam Preparation - 25 July 2014 Morning\3. HouseWithAWindow\obj\Debug\_3.HouseWithAWindow.exe
+E:\softuni\real\c#\stuff\8. CSharp-Basics-Exam-Preparation-Yordan-Darakchiev\CSharp Basics Exam Preparation - 25 July 2014 Morning\3. HouseWithAWindow\obj\Debug\_3.HouseWithAWindow.pdb

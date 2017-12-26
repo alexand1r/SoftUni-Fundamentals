@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe
+E:\softuni\real\c#\SoftUniExamPreparations\AceOfDiamonds\bin\Debug\AceOfDiamonds.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\AceOfDiamonds\obj\Debug\AceOfDiamonds.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\AceOfDiamonds\obj\Debug\AceOfDiamonds.exe
+E:\softuni\real\c#\SoftUniExamPreparations\AceOfDiamonds\obj\Debug\AceOfDiamonds.pdb

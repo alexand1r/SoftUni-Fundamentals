@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Conditional-Statements-Homework\Petar'sGame\bin\Debug\Petar'sGame.exe.config
+E:\softuni\real\c#\Conditional-Statements-Homework\Petar'sGame\bin\Debug\Petar'sGame.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\Petar'sGame\bin\Debug\Petar'sGame.pdb
+E:\softuni\real\c#\Conditional-Statements-Homework\Petar'sGame\obj\Debug\Petar'sGame.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Conditional-Statements-Homework\Petar'sGame\obj\Debug\Petar'sGame.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\Petar'sGame\obj\Debug\Petar'sGame.pdb

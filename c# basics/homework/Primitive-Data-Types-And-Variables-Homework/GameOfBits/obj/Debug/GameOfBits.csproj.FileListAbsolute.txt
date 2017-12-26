@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\GameOfBits\bin\Debug\GameOfBits.exe.config
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\GameOfBits\obj\Debug\GameOfBits.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\GameOfBits\bin\Debug\GameOfBits.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\GameOfBits\bin\Debug\GameOfBits.pdb
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\GameOfBits\obj\Debug\GameOfBits.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\GameOfBits\obj\Debug\GameOfBits.pdb

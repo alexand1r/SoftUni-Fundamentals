@@ -1,0 +1,5 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\10.JoinLists\bin\Debug\10.JoinLists.exe.config
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\10.JoinLists\bin\Debug\10.JoinLists.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\10.JoinLists\bin\Debug\10.JoinLists.pdb
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\10.JoinLists\obj\Debug\10.JoinLists.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\10.JoinLists\obj\Debug\10.JoinLists.pdb

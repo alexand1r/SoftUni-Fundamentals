@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\CensorYourEmailAddress\bin\Debug\CensorYourEmailAddress.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\CensorYourEmailAddress\bin\Debug\CensorYourEmailAddress.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\CensorYourEmailAddress\bin\Debug\CensorYourEmailAddress.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\CensorYourEmailAddress\obj\Debug\CensorYourEmailAddress.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\CensorYourEmailAddress\obj\Debug\CensorYourEmailAddress.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\CensorYourEmailAddress\obj\Debug\CensorYourEmailAddress.pdb

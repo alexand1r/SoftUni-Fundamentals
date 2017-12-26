@@ -1,0 +1,6 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\Test\bin\Debug\Test.exe.config
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\Test\bin\Debug\Test.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\Test\bin\Debug\Test.pdb
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\Test\obj\Debug\Test.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\Test\obj\Debug\Test.pdb

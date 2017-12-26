@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 6. Pure Divisor\bin\Debug\Problem_6.Pure_Divisor.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 6. Pure Divisor\bin\Debug\Problem_6.Pure_Divisor.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 6. Pure Divisor\bin\Debug\Problem_6.Pure_Divisor.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 6. Pure Divisor\obj\Debug\Problem_6.Pure_Divisor.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 6. Pure Divisor\obj\Debug\Problem_6.Pure_Divisor.pdb

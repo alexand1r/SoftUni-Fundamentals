@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\WiggleWiggle\bin\Debug\WiggleWiggle.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\WiggleWiggle\bin\Debug\WiggleWiggle.exe
+E:\softuni\real\c#\SoftUniExamPreparations\WiggleWiggle\bin\Debug\WiggleWiggle.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\WiggleWiggle\obj\Debug\WiggleWiggle.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\WiggleWiggle\obj\Debug\WiggleWiggle.exe
+E:\softuni\real\c#\SoftUniExamPreparations\WiggleWiggle\obj\Debug\WiggleWiggle.pdb

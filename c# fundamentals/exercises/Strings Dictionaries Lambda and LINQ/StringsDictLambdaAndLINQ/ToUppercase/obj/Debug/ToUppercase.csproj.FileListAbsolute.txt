@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\ToUppercase\bin\Debug\ToUppercase.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\ToUppercase\bin\Debug\ToUppercase.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\ToUppercase\bin\Debug\ToUppercase.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\ToUppercase\obj\Debug\ToUppercase.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\ToUppercase\obj\Debug\ToUppercase.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\ToUppercase\obj\Debug\ToUppercase.pdb

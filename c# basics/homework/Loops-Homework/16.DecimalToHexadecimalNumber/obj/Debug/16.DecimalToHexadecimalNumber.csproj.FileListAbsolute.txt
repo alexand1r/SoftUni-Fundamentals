@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Loops-Homework\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.exe.config
+E:\softuni\real\c#\Loops-Homework\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.exe
+E:\softuni\real\c#\Loops-Homework\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.pdb
+E:\softuni\real\c#\Loops-Homework\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.exe
+E:\softuni\real\c#\Loops-Homework\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.pdb

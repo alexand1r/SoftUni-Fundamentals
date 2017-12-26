@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\5.ThirdDigitIs7\bin\Debug\5.ThirdDigitIs7.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\5.ThirdDigitIs7\bin\Debug\5.ThirdDigitIs7.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\5.ThirdDigitIs7\bin\Debug\5.ThirdDigitIs7.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\5.ThirdDigitIs7\obj\Debug\5.ThirdDigitIs7.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\5.ThirdDigitIs7\obj\Debug\5.ThirdDigitIs7.pdb

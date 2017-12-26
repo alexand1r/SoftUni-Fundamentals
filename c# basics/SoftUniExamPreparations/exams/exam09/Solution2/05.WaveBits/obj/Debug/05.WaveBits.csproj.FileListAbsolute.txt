@@ -1,0 +1,8 @@
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\05.WaveBits\bin\Debug\05.WaveBits.exe.config
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\05.WaveBits\bin\Debug\05.WaveBits.exe
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\05.WaveBits\bin\Debug\05.WaveBits.pdb
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\05.WaveBits\obj\Debug\05.WaveBits.exe
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\05.WaveBits\obj\Debug\05.WaveBits.pdb
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\05.WaveBits\bin\Debug\05.WaveBits.exe.config
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\05.WaveBits\obj\Debug\05.WaveBits.exe
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\05.WaveBits\obj\Debug\05.WaveBits.pdb

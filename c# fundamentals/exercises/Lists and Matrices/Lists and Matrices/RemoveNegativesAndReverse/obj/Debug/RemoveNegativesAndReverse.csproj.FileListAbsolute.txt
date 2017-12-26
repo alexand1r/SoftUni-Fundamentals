@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.pdb

@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\EncryptedMatrix\bin\Debug\EncryptedMatrix.exe.config
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\EncryptedMatrix\bin\Debug\EncryptedMatrix.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\EncryptedMatrix\bin\Debug\EncryptedMatrix.pdb
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\EncryptedMatrix\obj\Debug\EncryptedMatrix.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\EncryptedMatrix\obj\Debug\EncryptedMatrix.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\EncryptedMatrix\obj\Debug\EncryptedMatrix.pdb

@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Console-Input-Output-Homework\8.NumbersFrom1ToN\bin\Debug\8.NumbersFrom1ToN.exe.config
+E:\softuni\real\c#\Console-Input-Output-Homework\8.NumbersFrom1ToN\bin\Debug\8.NumbersFrom1ToN.exe
+E:\softuni\real\c#\Console-Input-Output-Homework\8.NumbersFrom1ToN\bin\Debug\8.NumbersFrom1ToN.pdb
+E:\softuni\real\c#\Console-Input-Output-Homework\8.NumbersFrom1ToN\obj\Debug\8.NumbersFrom1ToN.exe
+E:\softuni\real\c#\Console-Input-Output-Homework\8.NumbersFrom1ToN\obj\Debug\8.NumbersFrom1ToN.pdb

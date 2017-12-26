@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Conditional-Statements-Homework\9.PlayWithInt,DoubleAndString\bin\Debug\9.PlayWithInt,DoubleAndString.exe.config
+E:\softuni\real\c#\Conditional-Statements-Homework\9.PlayWithInt,DoubleAndString\bin\Debug\9.PlayWithInt,DoubleAndString.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\9.PlayWithInt,DoubleAndString\bin\Debug\9.PlayWithInt,DoubleAndString.pdb
+E:\softuni\real\c#\Conditional-Statements-Homework\9.PlayWithInt,DoubleAndString\obj\Debug\9.PlayWithInt,DoubleAndString.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Conditional-Statements-Homework\9.PlayWithInt,DoubleAndString\obj\Debug\9.PlayWithInt,DoubleAndString.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\9.PlayWithInt,DoubleAndString\obj\Debug\9.PlayWithInt,DoubleAndString.pdb

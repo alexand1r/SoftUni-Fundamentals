@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\Dumbbell\bin\Debug\Dumbbell.exe.config
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\Dumbbell\bin\Debug\Dumbbell.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\Dumbbell\bin\Debug\Dumbbell.pdb
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\Dumbbell\obj\Debug\Dumbbell.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\Dumbbell\obj\Debug\Dumbbell.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\Dumbbell\obj\Debug\Dumbbell.pdb

@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\URLParser\bin\Debug\URLParser.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\URLParser\bin\Debug\URLParser.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\URLParser\bin\Debug\URLParser.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\URLParser\obj\Debug\URLParser.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\URLParser\obj\Debug\URLParser.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\URLParser\obj\Debug\URLParser.pdb

@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\ReverseWordsInSentence\obj\Debug\ReverseWordsInSentence.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\ReverseWordsInSentence\obj\Debug\ReverseWordsInSentence.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\ReverseWordsInSentence\obj\Debug\ReverseWordsInSentence.pdb

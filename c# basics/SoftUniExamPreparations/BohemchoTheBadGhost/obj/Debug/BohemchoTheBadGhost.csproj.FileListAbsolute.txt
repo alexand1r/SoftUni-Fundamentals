@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\BohemchoTheBadGhost\bin\Debug\BohemchoTheBadGhost.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\BohemchoTheBadGhost\bin\Debug\BohemchoTheBadGhost.exe
+E:\softuni\real\c#\SoftUniExamPreparations\BohemchoTheBadGhost\bin\Debug\BohemchoTheBadGhost.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\BohemchoTheBadGhost\obj\Debug\BohemchoTheBadGhost.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\BohemchoTheBadGhost\obj\Debug\BohemchoTheBadGhost.exe
+E:\softuni\real\c#\SoftUniExamPreparations\BohemchoTheBadGhost\obj\Debug\BohemchoTheBadGhost.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\BohemchoTheBadGhost\bin\Debug\BohemchoTheBadGhost.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\BohemchoTheBadGhost\obj\Debug\BohemchoTheBadGhost.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\BohemchoTheBadGhost\obj\Debug\BohemchoTheBadGhost.pdb

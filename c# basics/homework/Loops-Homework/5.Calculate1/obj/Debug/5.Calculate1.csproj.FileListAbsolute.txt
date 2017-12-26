@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Loops-Homework\5.Calculate1\bin\Debug\5.Calculate1.exe.config
+E:\softuni\real\c#\Loops-Homework\5.Calculate1\bin\Debug\5.Calculate1.exe
+E:\softuni\real\c#\Loops-Homework\5.Calculate1\bin\Debug\5.Calculate1.pdb
+E:\softuni\real\c#\Loops-Homework\5.Calculate1\obj\Debug\5.Calculate1.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Loops-Homework\5.Calculate1\obj\Debug\5.Calculate1.exe
+E:\softuni\real\c#\Loops-Homework\5.Calculate1\obj\Debug\5.Calculate1.pdb

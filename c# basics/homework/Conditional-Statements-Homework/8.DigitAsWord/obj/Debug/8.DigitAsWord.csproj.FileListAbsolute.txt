@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Conditional-Statements-Homework\8.DigitAsWord\bin\Debug\8.DigitAsWord.exe.config
+E:\softuni\real\c#\Conditional-Statements-Homework\8.DigitAsWord\bin\Debug\8.DigitAsWord.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\8.DigitAsWord\bin\Debug\8.DigitAsWord.pdb
+E:\softuni\real\c#\Conditional-Statements-Homework\8.DigitAsWord\obj\Debug\8.DigitAsWord.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\8.DigitAsWord\obj\Debug\8.DigitAsWord.pdb

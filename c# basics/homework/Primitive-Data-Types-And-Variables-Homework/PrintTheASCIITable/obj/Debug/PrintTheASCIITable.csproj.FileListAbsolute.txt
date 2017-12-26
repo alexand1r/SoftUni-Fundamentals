@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe.config
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.pdb
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.pdb

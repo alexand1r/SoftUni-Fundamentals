@@ -1,0 +1,10 @@
+E:\softuni\Fundamentals\TechModule\entity-fw\Entity Framework\EntityFrameworkLab\bin\Debug\EntityFrameworkLab.exe.config
+E:\softuni\Fundamentals\TechModule\entity-fw\Entity Framework\EntityFrameworkLab\bin\Debug\EntityFrameworkLab.exe
+E:\softuni\Fundamentals\TechModule\entity-fw\Entity Framework\EntityFrameworkLab\bin\Debug\EntityFrameworkLab.pdb
+E:\softuni\Fundamentals\TechModule\entity-fw\Entity Framework\EntityFrameworkLab\bin\Debug\EntityFramework.dll
+E:\softuni\Fundamentals\TechModule\entity-fw\Entity Framework\EntityFrameworkLab\bin\Debug\EntityFramework.SqlServer.dll
+E:\softuni\Fundamentals\TechModule\entity-fw\Entity Framework\EntityFrameworkLab\bin\Debug\EntityFramework.xml
+E:\softuni\Fundamentals\TechModule\entity-fw\Entity Framework\EntityFrameworkLab\bin\Debug\EntityFramework.SqlServer.xml
+E:\softuni\Fundamentals\TechModule\entity-fw\Entity Framework\EntityFrameworkLab\obj\Debug\EntityFrameworkLab.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\TechModule\entity-fw\Entity Framework\EntityFrameworkLab\obj\Debug\EntityFrameworkLab.exe
+E:\softuni\Fundamentals\TechModule\entity-fw\Entity Framework\EntityFrameworkLab\obj\Debug\EntityFrameworkLab.pdb

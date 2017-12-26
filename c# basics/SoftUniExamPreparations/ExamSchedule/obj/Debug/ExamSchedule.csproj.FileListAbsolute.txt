@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\ExamSchedule\bin\Debug\ExamSchedule.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\ExamSchedule\bin\Debug\ExamSchedule.exe
+E:\softuni\real\c#\SoftUniExamPreparations\ExamSchedule\bin\Debug\ExamSchedule.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\ExamSchedule\obj\Debug\ExamSchedule.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\ExamSchedule\obj\Debug\ExamSchedule.exe
+E:\softuni\real\c#\SoftUniExamPreparations\ExamSchedule\obj\Debug\ExamSchedule.pdb

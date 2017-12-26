@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\OddEvenElements\bin\Debug\OddEvenElements.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\OddEvenElements\bin\Debug\OddEvenElements.exe
+E:\softuni\real\c#\SoftUniExamPreparations\OddEvenElements\bin\Debug\OddEvenElements.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\OddEvenElements\obj\Debug\OddEvenElements.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\OddEvenElements\obj\Debug\OddEvenElements.exe
+E:\softuni\real\c#\SoftUniExamPreparations\OddEvenElements\obj\Debug\OddEvenElements.pdb

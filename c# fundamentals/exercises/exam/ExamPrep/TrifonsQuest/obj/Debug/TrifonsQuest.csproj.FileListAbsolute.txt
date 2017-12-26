@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\TrifonsQuest\bin\Debug\TrifonsQuest.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\TrifonsQuest\bin\Debug\TrifonsQuest.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\TrifonsQuest\bin\Debug\TrifonsQuest.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\TrifonsQuest\obj\Debug\TrifonsQuest.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\TrifonsQuest\obj\Debug\TrifonsQuest.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\TrifonsQuest\obj\Debug\TrifonsQuest.csprojResolveAssemblyReference.cache

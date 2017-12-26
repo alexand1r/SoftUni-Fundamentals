@@ -1,0 +1,5 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe.config
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\11.CountOfLetters\bin\Debug\11.CountOfLetters.pdb
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\11.CountOfLetters\obj\Debug\11.CountOfLetters.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\11.CountOfLetters\obj\Debug\11.CountOfLetters.pdb

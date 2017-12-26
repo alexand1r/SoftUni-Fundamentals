@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.pdb

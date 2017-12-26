@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Volleyball\bin\Debug\Volleyball.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\Volleyball\bin\Debug\Volleyball.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Volleyball\bin\Debug\Volleyball.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\Volleyball\obj\Debug\Volleyball.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\Volleyball\obj\Debug\Volleyball.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Volleyball\obj\Debug\Volleyball.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\Volleyball\bin\Debug\Volleyball.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\Volleyball\obj\Debug\Volleyball.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\Volleyball\obj\Debug\Volleyball.pdb

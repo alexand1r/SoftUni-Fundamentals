@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\MaxSequenceOfIncreasingElements\bin\Debug\MaxSequenceOfIncreasingElements.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\MaxSequenceOfIncreasingElements\bin\Debug\MaxSequenceOfIncreasingElements.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\MaxSequenceOfIncreasingElements\bin\Debug\MaxSequenceOfIncreasingElements.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\MaxSequenceOfIncreasingElements\obj\Debug\MaxSequenceOfIncreasingElements.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\MaxSequenceOfIncreasingElements\obj\Debug\MaxSequenceOfIncreasingElements.pdb

@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\ChristmasTree\bin\Debug\ChristmasTree.exe
+E:\softuni\real\c#\SoftUniExamPreparations\ChristmasTree\bin\Debug\ChristmasTree.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\ChristmasTree\obj\Debug\ChristmasTree.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\ChristmasTree\obj\Debug\ChristmasTree.exe
+E:\softuni\real\c#\SoftUniExamPreparations\ChristmasTree\obj\Debug\ChristmasTree.pdb

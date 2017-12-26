@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\EmergencyRepairs\bin\Debug\EmergencyRepairs.exe.config
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\EmergencyRepairs\bin\Debug\EmergencyRepairs.exe
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\EmergencyRepairs\bin\Debug\EmergencyRepairs.pdb
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\EmergencyRepairs\obj\Debug\EmergencyRepairs.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\EmergencyRepairs\obj\Debug\EmergencyRepairs.exe
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\EmergencyRepairs\obj\Debug\EmergencyRepairs.pdb

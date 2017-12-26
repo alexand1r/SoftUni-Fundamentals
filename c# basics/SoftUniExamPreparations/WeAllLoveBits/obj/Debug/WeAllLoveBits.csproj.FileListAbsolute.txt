@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe
+E:\softuni\real\c#\SoftUniExamPreparations\WeAllLoveBits\bin\Debug\WeAllLoveBits.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\WeAllLoveBits\obj\Debug\WeAllLoveBits.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\WeAllLoveBits\obj\Debug\WeAllLoveBits.exe
+E:\softuni\real\c#\SoftUniExamPreparations\WeAllLoveBits\obj\Debug\WeAllLoveBits.pdb

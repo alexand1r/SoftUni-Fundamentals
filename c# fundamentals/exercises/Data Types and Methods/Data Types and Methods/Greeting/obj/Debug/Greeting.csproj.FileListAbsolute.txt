@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\Greeting\bin\Debug\Greeting.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\Greeting\bin\Debug\Greeting.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\Greeting\bin\Debug\Greeting.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\Greeting\obj\Debug\Greeting.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\Greeting\obj\Debug\Greeting.pdb

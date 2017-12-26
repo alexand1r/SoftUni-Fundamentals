@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 9. Bit Destroyer\bin\Debug\Problem_9.Bit_Destroyer.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 9. Bit Destroyer\bin\Debug\Problem_9.Bit_Destroyer.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 9. Bit Destroyer\bin\Debug\Problem_9.Bit_Destroyer.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 9. Bit Destroyer\obj\Debug\Problem_9.Bit_Destroyer.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 9. Bit Destroyer\obj\Debug\Problem_9.Bit_Destroyer.pdb

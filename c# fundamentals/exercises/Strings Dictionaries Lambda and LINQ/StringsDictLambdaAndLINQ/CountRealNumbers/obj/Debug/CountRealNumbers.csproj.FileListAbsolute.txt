@@ -1,0 +1,1 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config

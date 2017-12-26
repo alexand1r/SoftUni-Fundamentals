@@ -1,0 +1,5 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe.config
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.pdb
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.pdb

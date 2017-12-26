@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\CirclesIntersection\bin\Debug\CirclesIntersection.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\CirclesIntersection\bin\Debug\CirclesIntersection.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\CirclesIntersection\bin\Debug\CirclesIntersection.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\CirclesIntersection\obj\Debug\CirclesIntersection.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\CirclesIntersection\obj\Debug\CirclesIntersection.pdb

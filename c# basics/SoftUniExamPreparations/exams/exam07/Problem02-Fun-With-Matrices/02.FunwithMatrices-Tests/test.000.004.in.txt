@@ -1,0 +1,12 @@
+0.01
+0.01
+0 0 multiply 0.01
+0 1 multiply -0.01
+0 2 multiply 0.01
+0 3 multiply 0.01
+1 2 sum -10
+2 0 sum -10
+3 3 sum -10
+2 2 sum -10
+1 1 sum -10
+Game Over!

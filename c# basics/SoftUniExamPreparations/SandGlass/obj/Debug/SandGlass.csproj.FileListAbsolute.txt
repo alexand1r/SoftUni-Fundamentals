@@ -1,0 +1,5 @@
+E:\softuni\real\c#\SoftUniExamPreparations\SandGlass\bin\Debug\SandGlass.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\SandGlass\bin\Debug\SandGlass.exe
+E:\softuni\real\c#\SoftUniExamPreparations\SandGlass\bin\Debug\SandGlass.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\SandGlass\obj\Debug\SandGlass.exe
+E:\softuni\real\c#\SoftUniExamPreparations\SandGlass\obj\Debug\SandGlass.pdb

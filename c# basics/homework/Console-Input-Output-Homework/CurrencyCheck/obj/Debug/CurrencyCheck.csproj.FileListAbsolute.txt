@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Console-Input-Output-Homework\CurrencyCheck\bin\Debug\CurrencyCheck.exe.config
+E:\softuni\real\c#\Console-Input-Output-Homework\CurrencyCheck\bin\Debug\CurrencyCheck.exe
+E:\softuni\real\c#\Console-Input-Output-Homework\CurrencyCheck\bin\Debug\CurrencyCheck.pdb
+E:\softuni\real\c#\Console-Input-Output-Homework\CurrencyCheck\obj\Debug\CurrencyCheck.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Console-Input-Output-Homework\CurrencyCheck\obj\Debug\CurrencyCheck.exe
+E:\softuni\real\c#\Console-Input-Output-Homework\CurrencyCheck\obj\Debug\CurrencyCheck.pdb

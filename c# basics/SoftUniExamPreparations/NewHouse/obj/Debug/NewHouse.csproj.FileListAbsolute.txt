@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\NewHouse\bin\Debug\NewHouse.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\NewHouse\bin\Debug\NewHouse.exe
+E:\softuni\real\c#\SoftUniExamPreparations\NewHouse\bin\Debug\NewHouse.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\NewHouse\obj\Debug\NewHouse.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\NewHouse\obj\Debug\NewHouse.exe
+E:\softuni\real\c#\SoftUniExamPreparations\NewHouse\obj\Debug\NewHouse.pdb

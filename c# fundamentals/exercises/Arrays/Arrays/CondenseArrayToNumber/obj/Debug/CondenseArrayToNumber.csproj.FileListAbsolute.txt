@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.pdb

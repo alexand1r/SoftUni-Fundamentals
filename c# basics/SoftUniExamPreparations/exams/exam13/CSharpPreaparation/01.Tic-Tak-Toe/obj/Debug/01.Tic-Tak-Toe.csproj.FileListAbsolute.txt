@@ -1,0 +1,9 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\01.Tic-Tak-Toe\bin\Debug\01.Tic-Tak-Toe.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\01.Tic-Tak-Toe\bin\Debug\01.Tic-Tak-Toe.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\01.Tic-Tak-Toe\bin\Debug\01.Tic-Tak-Toe.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\01.Tic-Tak-Toe\obj\Debug\01.Tic-Tak-Toe.csprojResolveAssemblyReference.cache
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\01.Tic-Tak-Toe\obj\Debug\01.Tic-Tak-Toe.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\01.Tic-Tak-Toe\obj\Debug\01.Tic-Tak-Toe.pdb
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\01.Tic-Tak-Toe\bin\Debug\01.Tic-Tak-Toe.exe.config
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\01.Tic-Tak-Toe\obj\Debug\01.Tic-Tak-Toe.exe
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\01.Tic-Tak-Toe\obj\Debug\01.Tic-Tak-Toe.pdb

@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\3.DivideBy7and5\bin\Debug\3.DivideBy7and5.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\3.DivideBy7and5\bin\Debug\3.DivideBy7and5.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\3.DivideBy7and5\bin\Debug\3.DivideBy7and5.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\3.DivideBy7and5\obj\Debug\3.DivideBy7and5.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\3.DivideBy7and5\obj\Debug\3.DivideBy7and5.pdb

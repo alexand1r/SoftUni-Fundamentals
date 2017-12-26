@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\DoublePalindromes\bin\Debug\DoublePalindromes.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\DoublePalindromes\bin\Debug\DoublePalindromes.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\DoublePalindromes\bin\Debug\DoublePalindromes.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\DoublePalindromes\obj\Debug\DoublePalindromes.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\DoublePalindromes\obj\Debug\DoublePalindromes.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\DoublePalindromes\obj\Debug\DoublePalindromes.pdb

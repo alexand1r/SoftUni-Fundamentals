@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\WorkHours\bin\Debug\WorkHours.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\WorkHours\bin\Debug\WorkHours.exe
+E:\softuni\real\c#\SoftUniExamPreparations\WorkHours\bin\Debug\WorkHours.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\WorkHours\obj\Debug\WorkHours.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\WorkHours\obj\Debug\WorkHours.exe
+E:\softuni\real\c#\SoftUniExamPreparations\WorkHours\obj\Debug\WorkHours.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\WorkHours\bin\Debug\WorkHours.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\WorkHours\obj\Debug\WorkHours.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\WorkHours\obj\Debug\WorkHours.pdb

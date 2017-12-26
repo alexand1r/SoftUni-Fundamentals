@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\test\bin\Debug\test.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\test\bin\Debug\test.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\test\bin\Debug\test.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\test\obj\Debug\test.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\test\obj\Debug\test.pdb

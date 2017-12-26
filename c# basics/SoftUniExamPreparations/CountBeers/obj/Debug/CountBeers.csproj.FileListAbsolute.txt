@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\CountBeers\bin\Debug\CountBeers.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\CountBeers\bin\Debug\CountBeers.exe
+E:\softuni\real\c#\SoftUniExamPreparations\CountBeers\bin\Debug\CountBeers.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\CountBeers\obj\Debug\CountBeers.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\CountBeers\obj\Debug\CountBeers.exe
+E:\softuni\real\c#\SoftUniExamPreparations\CountBeers\obj\Debug\CountBeers.pdb

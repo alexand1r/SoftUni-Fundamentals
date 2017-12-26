@@ -1,0 +1,2 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Triangle\bin\Debug\Triangle.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\Triangle\bin\Debug\Triangle.exe.config

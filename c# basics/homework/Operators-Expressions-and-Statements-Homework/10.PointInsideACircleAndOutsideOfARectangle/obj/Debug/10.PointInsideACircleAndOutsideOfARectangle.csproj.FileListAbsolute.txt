@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\10.PointInsideACircleAndOutsideOfARectangle.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\10.PointInsideACircleAndOutsideOfARectangle.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\10.PointInsideACircleAndOutsideOfARectangle.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\10.PointInsideACircleAndOutsideOfARectangle\obj\Debug\10.PointInsideACircleAndOutsideOfARectangle.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\10.PointInsideACircleAndOutsideOfARectangle\obj\Debug\10.PointInsideACircleAndOutsideOfARectangle.pdb

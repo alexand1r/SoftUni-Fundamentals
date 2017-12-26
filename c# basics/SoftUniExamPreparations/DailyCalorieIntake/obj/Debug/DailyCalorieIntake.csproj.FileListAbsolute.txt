@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\DailyCalorieIntake\bin\Debug\DailyCalorieIntake.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\DailyCalorieIntake\bin\Debug\DailyCalorieIntake.exe
+E:\softuni\real\c#\SoftUniExamPreparations\DailyCalorieIntake\bin\Debug\DailyCalorieIntake.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\DailyCalorieIntake\obj\Debug\DailyCalorieIntake.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\DailyCalorieIntake\obj\Debug\DailyCalorieIntake.exe
+E:\softuni\real\c#\SoftUniExamPreparations\DailyCalorieIntake\obj\Debug\DailyCalorieIntake.pdb

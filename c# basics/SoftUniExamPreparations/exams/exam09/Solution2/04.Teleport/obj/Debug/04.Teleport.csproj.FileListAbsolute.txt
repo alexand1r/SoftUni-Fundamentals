@@ -1,0 +1,9 @@
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\04.Teleport\bin\Debug\04.Teleport.exe.config
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\04.Teleport\bin\Debug\04.Teleport.exe
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\04.Teleport\bin\Debug\04.Teleport.pdb
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\04.Teleport\obj\Debug\04.Teleport.csprojResolveAssemblyReference.cache
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\04.Teleport\obj\Debug\04.Teleport.exe
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\04.Teleport\obj\Debug\04.Teleport.pdb
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\04.Teleport\bin\Debug\04.Teleport.exe.config
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\04.Teleport\obj\Debug\04.Teleport.exe
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\04.Teleport\obj\Debug\04.Teleport.pdb

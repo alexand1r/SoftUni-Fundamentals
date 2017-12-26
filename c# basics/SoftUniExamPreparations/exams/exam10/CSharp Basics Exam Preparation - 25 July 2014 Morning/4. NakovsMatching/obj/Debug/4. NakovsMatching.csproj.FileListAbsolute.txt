@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\4. NakovsMatching\bin\Debug\_4.NakovsMatching.exe.config
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\4. NakovsMatching\bin\Debug\_4.NakovsMatching.exe
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\4. NakovsMatching\bin\Debug\_4.NakovsMatching.pdb
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\4. NakovsMatching\obj\Debug\4. NakovsMatching.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\4. NakovsMatching\obj\Debug\_4.NakovsMatching.exe
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\4. NakovsMatching\obj\Debug\_4.NakovsMatching.pdb
+E:\softuni\real\c#\stuff\8. CSharp-Basics-Exam-Preparation-Yordan-Darakchiev\CSharp Basics Exam Preparation - 25 July 2014 Morning\4. NakovsMatching\bin\Debug\_4.NakovsMatching.exe.config
+E:\softuni\real\c#\stuff\8. CSharp-Basics-Exam-Preparation-Yordan-Darakchiev\CSharp Basics Exam Preparation - 25 July 2014 Morning\4. NakovsMatching\obj\Debug\_4.NakovsMatching.exe
+E:\softuni\real\c#\stuff\8. CSharp-Basics-Exam-Preparation-Yordan-Darakchiev\CSharp Basics Exam Preparation - 25 July 2014 Morning\4. NakovsMatching\obj\Debug\_4.NakovsMatching.pdb

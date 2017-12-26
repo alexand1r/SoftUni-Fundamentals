@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\RotateAMatrix\bin\Debug\RotateAMatrix.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\RotateAMatrix\bin\Debug\RotateAMatrix.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\RotateAMatrix\bin\Debug\RotateAMatrix.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\RotateAMatrix\obj\Debug\RotateAMatrix.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\RotateAMatrix\obj\Debug\RotateAMatrix.pdb

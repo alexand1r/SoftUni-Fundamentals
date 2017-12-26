@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\ReverseArrayOfIntegers\bin\Debug\ReverseArrayOfIntegers.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\ReverseArrayOfIntegers\bin\Debug\ReverseArrayOfIntegers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\ReverseArrayOfIntegers\bin\Debug\ReverseArrayOfIntegers.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\ReverseArrayOfIntegers\obj\Debug\ReverseArrayOfIntegers.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\ReverseArrayOfIntegers\obj\Debug\ReverseArrayOfIntegers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\ReverseArrayOfIntegers\obj\Debug\ReverseArrayOfIntegers.pdb

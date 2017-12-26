@@ -1,0 +1,1 @@
+E:\softuni\real\c#\SoftUniExamPreparations\HalfByteSwapper\bin\Debug\HalfByteSwapper.exe.config

@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\WeekendsBetweenTwoDates\bin\Debug\WeekendsBetweenTwoDates.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\WeekendsBetweenTwoDates\bin\Debug\WeekendsBetweenTwoDates.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\WeekendsBetweenTwoDates\bin\Debug\WeekendsBetweenTwoDates.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\WeekendsBetweenTwoDates\obj\Debug\WeekendsBetweenTwoDates.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\WeekendsBetweenTwoDates\obj\Debug\WeekendsBetweenTwoDates.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\WeekendsBetweenTwoDates\obj\Debug\WeekendsBetweenTwoDates.pdb

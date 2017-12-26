@@ -1,0 +1,2 @@
+E:\softuni\real\c#\SoftUniExamPreparations\SudokuResults\bin\Debug\SudokuResults.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\SudokuResults\bin\Debug\SudokuResults.exe.config

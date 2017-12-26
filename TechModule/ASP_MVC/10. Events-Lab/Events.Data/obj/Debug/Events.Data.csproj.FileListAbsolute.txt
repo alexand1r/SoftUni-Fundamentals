@@ -1,0 +1,14 @@
+E:\softuni\Fundamentals\TechModule\ASP_MVC\10. Events-Lab\Events.Data\bin\Debug\Events.Data.dll.config
+E:\softuni\Fundamentals\TechModule\ASP_MVC\10. Events-Lab\Events.Data\bin\Debug\Events.Data.dll
+E:\softuni\Fundamentals\TechModule\ASP_MVC\10. Events-Lab\Events.Data\bin\Debug\Events.Data.pdb
+E:\softuni\Fundamentals\TechModule\ASP_MVC\10. Events-Lab\Events.Data\bin\Debug\EntityFramework.dll
+E:\softuni\Fundamentals\TechModule\ASP_MVC\10. Events-Lab\Events.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\softuni\Fundamentals\TechModule\ASP_MVC\10. Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\softuni\Fundamentals\TechModule\ASP_MVC\10. Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\softuni\Fundamentals\TechModule\ASP_MVC\10. Events-Lab\Events.Data\bin\Debug\EntityFramework.xml
+E:\softuni\Fundamentals\TechModule\ASP_MVC\10. Events-Lab\Events.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\softuni\Fundamentals\TechModule\ASP_MVC\10. Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\softuni\Fundamentals\TechModule\ASP_MVC\10. Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\softuni\Fundamentals\TechModule\ASP_MVC\10. Events-Lab\Events.Data\obj\Debug\Events.Data.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\TechModule\ASP_MVC\10. Events-Lab\Events.Data\obj\Debug\Events.Data.dll
+E:\softuni\Fundamentals\TechModule\ASP_MVC\10. Events-Lab\Events.Data\obj\Debug\Events.Data.pdb

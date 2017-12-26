@@ -1,0 +1,7 @@
+55
+0.1
+0 0 power -2.4
+2 1 multiply 0
+0 2 sum 777
+3 1 power 2.4
+Game Over!

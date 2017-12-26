@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\5. ChangeEvenBits\bin\Debug\_5.ChangeEvenBits.exe.config
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\5. ChangeEvenBits\bin\Debug\_5.ChangeEvenBits.exe
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\5. ChangeEvenBits\bin\Debug\_5.ChangeEvenBits.pdb
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\5. ChangeEvenBits\obj\Debug\5. ChangeEvenBits.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\5. ChangeEvenBits\obj\Debug\_5.ChangeEvenBits.exe
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\5. ChangeEvenBits\obj\Debug\_5.ChangeEvenBits.pdb
+E:\softuni\real\c#\stuff\8. CSharp-Basics-Exam-Preparation-Yordan-Darakchiev\CSharp Basics Exam Preparation - 25 July 2014 Morning\5. ChangeEvenBits\bin\Debug\_5.ChangeEvenBits.exe.config
+E:\softuni\real\c#\stuff\8. CSharp-Basics-Exam-Preparation-Yordan-Darakchiev\CSharp Basics Exam Preparation - 25 July 2014 Morning\5. ChangeEvenBits\obj\Debug\_5.ChangeEvenBits.exe

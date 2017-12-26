@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

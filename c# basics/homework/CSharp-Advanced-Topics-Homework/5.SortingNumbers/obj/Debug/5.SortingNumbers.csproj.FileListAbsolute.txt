@@ -1,0 +1,5 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\5.SortingNumbers\bin\Debug\5.SortingNumbers.exe.config
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\5.SortingNumbers\bin\Debug\5.SortingNumbers.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\5.SortingNumbers\bin\Debug\5.SortingNumbers.pdb
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\5.SortingNumbers\obj\Debug\5.SortingNumbers.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\5.SortingNumbers\obj\Debug\5.SortingNumbers.pdb

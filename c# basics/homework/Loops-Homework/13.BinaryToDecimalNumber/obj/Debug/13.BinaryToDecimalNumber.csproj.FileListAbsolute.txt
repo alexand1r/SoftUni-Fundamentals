@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Loops-Homework\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe.config
+E:\softuni\real\c#\Loops-Homework\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe
+E:\softuni\real\c#\Loops-Homework\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.pdb
+E:\softuni\real\c#\Loops-Homework\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Loops-Homework\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.exe
+E:\softuni\real\c#\Loops-Homework\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.pdb

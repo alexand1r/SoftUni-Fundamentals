@@ -1,0 +1,4 @@
+Hello, Tashko Toshov
+Client id: 3213502
+Total balance: -5.13
+Active: no

@@ -1,0 +1,5 @@
+356.55345
+10
+1 1 power 4
+2 2 power 5
+Game Over!

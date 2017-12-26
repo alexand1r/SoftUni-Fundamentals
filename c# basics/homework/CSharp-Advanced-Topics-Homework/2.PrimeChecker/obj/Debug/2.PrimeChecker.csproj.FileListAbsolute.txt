@@ -1,0 +1,5 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\2.PrimeChecker\bin\Debug\2.PrimeChecker.exe.config
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\2.PrimeChecker\bin\Debug\2.PrimeChecker.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\2.PrimeChecker\bin\Debug\2.PrimeChecker.pdb
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\2.PrimeChecker\obj\Debug\2.PrimeChecker.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\2.PrimeChecker\obj\Debug\2.PrimeChecker.pdb

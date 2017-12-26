@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\TheExplorer\bin\Debug\TheExplorer.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\TheExplorer\bin\Debug\TheExplorer.exe
+E:\softuni\real\c#\SoftUniExamPreparations\TheExplorer\bin\Debug\TheExplorer.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\TheExplorer\obj\Debug\TheExplorer.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\TheExplorer\obj\Debug\TheExplorer.exe
+E:\softuni\real\c#\SoftUniExamPreparations\TheExplorer\obj\Debug\TheExplorer.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TheExplorer\bin\Debug\TheExplorer.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TheExplorer\obj\Debug\TheExplorer.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TheExplorer\obj\Debug\TheExplorer.pdb

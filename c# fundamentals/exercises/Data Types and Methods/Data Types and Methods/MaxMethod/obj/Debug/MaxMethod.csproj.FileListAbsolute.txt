@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\MaxMethod\bin\Debug\MaxMethod.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\MaxMethod\bin\Debug\MaxMethod.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\MaxMethod\bin\Debug\MaxMethod.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\MaxMethod\obj\Debug\MaxMethod.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\MaxMethod\obj\Debug\MaxMethod.pdb

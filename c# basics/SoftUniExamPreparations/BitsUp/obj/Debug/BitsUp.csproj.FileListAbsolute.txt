@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\BitsUp\bin\Debug\BitsUp.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\BitsUp\bin\Debug\BitsUp.exe
+E:\softuni\real\c#\SoftUniExamPreparations\BitsUp\bin\Debug\BitsUp.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\BitsUp\obj\Debug\BitsUp.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\BitsUp\obj\Debug\BitsUp.exe
+E:\softuni\real\c#\SoftUniExamPreparations\BitsUp\obj\Debug\BitsUp.pdb

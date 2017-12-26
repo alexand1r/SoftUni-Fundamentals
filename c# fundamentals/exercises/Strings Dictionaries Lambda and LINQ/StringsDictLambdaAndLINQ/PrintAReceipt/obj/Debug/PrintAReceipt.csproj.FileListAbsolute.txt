@@ -1,0 +1,1 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Strings Dictionaries Lambda and LINQ\StringsDictLambdaAndLINQ\PrintAReceipt\bin\Debug\PrintAReceipt.exe.config

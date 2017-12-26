@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\FoldAndSum\bin\Debug\FoldAndSum.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\FoldAndSum\bin\Debug\FoldAndSum.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\FoldAndSum\bin\Debug\FoldAndSum.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\FoldAndSum\obj\Debug\FoldAndSum.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\FoldAndSum\obj\Debug\FoldAndSum.pdb

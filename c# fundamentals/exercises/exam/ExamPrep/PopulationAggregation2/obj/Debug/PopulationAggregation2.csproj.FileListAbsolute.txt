@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\PopulationAggregation2\bin\Debug\PopulationAggregation2.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\PopulationAggregation2\bin\Debug\PopulationAggregation2.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\PopulationAggregation2\bin\Debug\PopulationAggregation2.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\PopulationAggregation2\obj\Debug\PopulationAggregation2.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\PopulationAggregation2\obj\Debug\PopulationAggregation2.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\PopulationAggregation2\obj\Debug\PopulationAggregation2.pdb

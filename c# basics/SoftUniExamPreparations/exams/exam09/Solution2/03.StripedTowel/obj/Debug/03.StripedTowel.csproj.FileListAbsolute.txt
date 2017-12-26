@@ -1,0 +1,8 @@
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\03.StripedTowel\bin\Debug\03.StripedTowel.exe.config
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\03.StripedTowel\bin\Debug\03.StripedTowel.exe
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\03.StripedTowel\bin\Debug\03.StripedTowel.pdb
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\03.StripedTowel\obj\Debug\03.StripedTowel.exe
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\03.StripedTowel\obj\Debug\03.StripedTowel.pdb
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\03.StripedTowel\bin\Debug\03.StripedTowel.exe.config
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\03.StripedTowel\obj\Debug\03.StripedTowel.exe
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\03.StripedTowel\obj\Debug\03.StripedTowel.pdb

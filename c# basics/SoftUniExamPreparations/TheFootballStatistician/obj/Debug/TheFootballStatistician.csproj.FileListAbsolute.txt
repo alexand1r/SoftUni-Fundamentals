@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\TheFootballStatistician\bin\Debug\TheFootballStatistician.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\TheFootballStatistician\bin\Debug\TheFootballStatistician.exe
+E:\softuni\real\c#\SoftUniExamPreparations\TheFootballStatistician\bin\Debug\TheFootballStatistician.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\TheFootballStatistician\obj\Debug\TheFootballStatistician.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\TheFootballStatistician\obj\Debug\TheFootballStatistician.exe
+E:\softuni\real\c#\SoftUniExamPreparations\TheFootballStatistician\obj\Debug\TheFootballStatistician.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TheFootballStatistician\bin\Debug\TheFootballStatistician.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TheFootballStatistician\obj\Debug\TheFootballStatistician.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TheFootballStatistician\obj\Debug\TheFootballStatistician.pdb

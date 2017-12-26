@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Console-Input-Output-Exercise\GameOfBits\bin\Debug\GameOfBits.exe.config
+E:\softuni\real\c#\Console-Input-Output-Exercise\GameOfBits\bin\Debug\GameOfBits.exe
+E:\softuni\real\c#\Console-Input-Output-Exercise\GameOfBits\bin\Debug\GameOfBits.pdb
+E:\softuni\real\c#\Console-Input-Output-Exercise\GameOfBits\obj\Debug\GameOfBits.exe
+E:\softuni\real\c#\Console-Input-Output-Exercise\GameOfBits\obj\Debug\GameOfBits.pdb

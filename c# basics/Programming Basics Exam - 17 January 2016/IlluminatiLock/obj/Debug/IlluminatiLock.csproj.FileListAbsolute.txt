@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\IlluminatiLock\bin\Debug\IlluminatiLock.exe.config
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\IlluminatiLock\bin\Debug\IlluminatiLock.exe
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\IlluminatiLock\bin\Debug\IlluminatiLock.pdb
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\IlluminatiLock\obj\Debug\IlluminatiLock.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\IlluminatiLock\obj\Debug\IlluminatiLock.exe
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\IlluminatiLock\obj\Debug\IlluminatiLock.pdb

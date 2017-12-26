@@ -1,0 +1,9 @@
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\01.DailyCaloriIntake\bin\Debug\01.DailyCaloriIntake.exe.config
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\01.DailyCaloriIntake\bin\Debug\01.DailyCaloriIntake.exe
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\01.DailyCaloriIntake\bin\Debug\01.DailyCaloriIntake.pdb
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\01.DailyCaloriIntake\obj\Debug\01.DailyCaloriIntake.csprojResolveAssemblyReference.cache
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\01.DailyCaloriIntake\obj\Debug\01.DailyCaloriIntake.exe
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\01.DailyCaloriIntake\obj\Debug\01.DailyCaloriIntake.pdb
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\01.DailyCaloriIntake\bin\Debug\01.DailyCaloriIntake.exe.config
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\01.DailyCaloriIntake\obj\Debug\01.DailyCaloriIntake.exe
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\01.DailyCaloriIntake\obj\Debug\01.DailyCaloriIntake.pdb

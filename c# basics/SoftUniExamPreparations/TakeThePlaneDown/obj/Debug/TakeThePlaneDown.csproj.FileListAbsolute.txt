@@ -1,0 +1,2 @@
+E:\softuni\real\c#\SoftUniExamPreparations\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.exe.config

@@ -1,0 +1,9 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\03.Star\bin\Debug\03.Star.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\03.Star\bin\Debug\03.Star.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\03.Star\bin\Debug\03.Star.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\03.Star\obj\Debug\03.Star.csprojResolveAssemblyReference.cache
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\03.Star\obj\Debug\03.Star.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\03.Star\obj\Debug\03.Star.pdb
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\03.Star\bin\Debug\03.Star.exe.config
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\03.Star\obj\Debug\03.Star.exe
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\03.Star\obj\Debug\03.Star.pdb

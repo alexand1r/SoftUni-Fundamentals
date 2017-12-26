@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Conditional-Statements-Homework\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.exe.config
+E:\softuni\real\c#\Conditional-Statements-Homework\3.CheckForAPlayCard\obj\Debug\3.CheckForAPlayCard.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Conditional-Statements-Homework\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.pdb
+E:\softuni\real\c#\Conditional-Statements-Homework\3.CheckForAPlayCard\obj\Debug\3.CheckForAPlayCard.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\3.CheckForAPlayCard\obj\Debug\3.CheckForAPlayCard.pdb

@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\SpyHard\bin\Debug\SpyHard.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\SpyHard\bin\Debug\SpyHard.exe
+E:\softuni\real\c#\SoftUniExamPreparations\SpyHard\bin\Debug\SpyHard.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\SpyHard\obj\Debug\SpyHard.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\SpyHard\obj\Debug\SpyHard.exe
+E:\softuni\real\c#\SoftUniExamPreparations\SpyHard\obj\Debug\SpyHard.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\SpyHard\bin\Debug\SpyHard.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\SpyHard\obj\Debug\SpyHard.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\SpyHard\obj\Debug\SpyHard.pdb

@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\RectanglePosition\bin\Debug\RectanglePosition.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\RectanglePosition\bin\Debug\RectanglePosition.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\RectanglePosition\bin\Debug\RectanglePosition.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\RectanglePosition\obj\Debug\RectanglePosition.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\RectanglePosition\obj\Debug\RectanglePosition.pdb

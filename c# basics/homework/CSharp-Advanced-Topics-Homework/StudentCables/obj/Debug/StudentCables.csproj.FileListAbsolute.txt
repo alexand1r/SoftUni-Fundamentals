@@ -1,0 +1,6 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\StudentCables\bin\Debug\StudentCables.exe.config
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\StudentCables\bin\Debug\StudentCables.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\StudentCables\bin\Debug\StudentCables.pdb
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\StudentCables\obj\Debug\StudentCables.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\StudentCables\obj\Debug\StudentCables.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\StudentCables\obj\Debug\StudentCables.pdb

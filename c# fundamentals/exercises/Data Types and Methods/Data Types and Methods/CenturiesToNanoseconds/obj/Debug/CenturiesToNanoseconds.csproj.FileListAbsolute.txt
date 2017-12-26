@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb

@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\TravellerBob\bin\Debug\TravellerBob.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\TravellerBob\bin\Debug\TravellerBob.exe
+E:\softuni\real\c#\SoftUniExamPreparations\TravellerBob\bin\Debug\TravellerBob.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\TravellerBob\obj\Debug\TravellerBob.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\TravellerBob\obj\Debug\TravellerBob.exe
+E:\softuni\real\c#\SoftUniExamPreparations\TravellerBob\obj\Debug\TravellerBob.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TravellerBob\bin\Debug\TravellerBob.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TravellerBob\obj\Debug\TravellerBob.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TravellerBob\obj\Debug\TravellerBob.pdb

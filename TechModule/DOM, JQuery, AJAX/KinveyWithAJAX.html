@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kinvey with AJAX</title>
+    <script src="https://code.jquery.com/jquery-3.0.0.min.js">
+    </script>
+    <script src="js.js">
+    </script>
+    <style>
+        .title {background: #DDD; padding: 10px;}
+        .body {background: #DDF; padding: 10px; margin-left: 15px;}
+    </style>
+</head>
+<body>
+    <button onclick="callKinvey()">Load Posts from Kinvey</button>
+    <br/>
+    Title: <input type="text" id="newPostTitle" />
+    Body: <input type="text" id="newPostBody" />
+    <button onclick="createPost()">Create New Post</button>
+</body>
+</html>

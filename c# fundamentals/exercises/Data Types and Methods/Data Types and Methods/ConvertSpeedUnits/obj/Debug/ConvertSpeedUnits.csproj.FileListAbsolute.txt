@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.pdb

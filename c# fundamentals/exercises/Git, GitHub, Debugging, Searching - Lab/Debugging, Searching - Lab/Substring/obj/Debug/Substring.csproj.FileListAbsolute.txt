@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\Substring\bin\Debug\Substring.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\Substring\bin\Debug\Substring.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\Substring\bin\Debug\Substring.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\Substring\obj\Debug\Substring.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\Substring\obj\Debug\Substring.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\Substring\obj\Debug\Substring.pdb

@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Conditional-Statements-Homework\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe.config
+E:\softuni\real\c#\Conditional-Statements-Homework\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Conditional-Statements-Homework\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.pdb
+E:\softuni\real\c#\Conditional-Statements-Homework\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.pdb

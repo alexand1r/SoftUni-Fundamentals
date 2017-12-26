@@ -1,0 +1,5 @@
+Bulgaria -> 3
+Germany -> 2
+hamburg -> 233
+berlin -> 22
+montana -> 3

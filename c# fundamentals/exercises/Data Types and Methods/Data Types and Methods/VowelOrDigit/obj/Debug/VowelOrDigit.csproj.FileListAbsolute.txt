@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\VowelOrDigit\bin\Debug\VowelOrDigit.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\VowelOrDigit\bin\Debug\VowelOrDigit.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\VowelOrDigit\bin\Debug\VowelOrDigit.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\VowelOrDigit\obj\Debug\VowelOrDigit.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\VowelOrDigit\obj\Debug\VowelOrDigit.pdb

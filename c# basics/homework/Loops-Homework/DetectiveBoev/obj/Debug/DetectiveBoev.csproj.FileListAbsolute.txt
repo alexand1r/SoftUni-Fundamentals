@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Loops-Homework\DetectiveBoev\bin\Debug\DetectiveBoev.exe.config
+E:\softuni\real\c#\Loops-Homework\DetectiveBoev\bin\Debug\DetectiveBoev.exe
+E:\softuni\real\c#\Loops-Homework\DetectiveBoev\bin\Debug\DetectiveBoev.pdb
+E:\softuni\real\c#\Loops-Homework\DetectiveBoev\obj\Debug\DetectiveBoev.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Loops-Homework\DetectiveBoev\obj\Debug\DetectiveBoev.exe
+E:\softuni\real\c#\Loops-Homework\DetectiveBoev\obj\Debug\DetectiveBoev.pdb

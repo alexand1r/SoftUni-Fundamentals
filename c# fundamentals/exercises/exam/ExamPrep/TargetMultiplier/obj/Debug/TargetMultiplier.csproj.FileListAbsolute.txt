@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\TargetMultiplier\bin\Debug\TargetMultiplier.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\TargetMultiplier\bin\Debug\TargetMultiplier.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\TargetMultiplier\bin\Debug\TargetMultiplier.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\TargetMultiplier\obj\Debug\TargetMultiplier.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\TargetMultiplier\obj\Debug\TargetMultiplier.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\TargetMultiplier\obj\Debug\TargetMultiplier.pdb

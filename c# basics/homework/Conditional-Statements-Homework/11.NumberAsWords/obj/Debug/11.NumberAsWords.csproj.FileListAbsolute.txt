@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Conditional-Statements-Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe.config
+E:\softuni\real\c#\Conditional-Statements-Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.pdb
+E:\softuni\real\c#\Conditional-Statements-Homework\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb

@@ -1,0 +1,5 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\2.Power\bin\Debug\2.Power.exe.config
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\2.Power\bin\Debug\2.Power.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\2.Power\bin\Debug\2.Power.pdb
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\2.Power\obj\Debug\2.Power.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\2.Power\obj\Debug\2.Power.pdb

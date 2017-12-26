@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Loops-Homework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe.config
+E:\softuni\real\c#\Loops-Homework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe
+E:\softuni\real\c#\Loops-Homework\17.CalculateGCD\bin\Debug\17.CalculateGCD.pdb
+E:\softuni\real\c#\Loops-Homework\17.CalculateGCD\obj\Debug\17.CalculateGCD.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Loops-Homework\17.CalculateGCD\obj\Debug\17.CalculateGCD.exe
+E:\softuni\real\c#\Loops-Homework\17.CalculateGCD\obj\Debug\17.CalculateGCD.pdb

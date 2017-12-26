@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Conditional-Statements-Exercises\2.SignOfProduct\bin\Debug\2.SignOfProduct.exe.config
+E:\softuni\real\c#\Conditional-Statements-Exercises\2.SignOfProduct\bin\Debug\2.SignOfProduct.exe
+E:\softuni\real\c#\Conditional-Statements-Exercises\2.SignOfProduct\bin\Debug\2.SignOfProduct.pdb
+E:\softuni\real\c#\Conditional-Statements-Exercises\2.SignOfProduct\obj\Debug\2.SignOfProduct.exe
+E:\softuni\real\c#\Conditional-Statements-Exercises\2.SignOfProduct\obj\Debug\2.SignOfProduct.pdb

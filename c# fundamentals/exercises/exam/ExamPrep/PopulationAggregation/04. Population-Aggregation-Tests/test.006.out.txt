@@ -1,0 +1,7 @@
+Bulgaria -> 3
+France -> 1
+Germany -> 2
+UK -> 2
+liverpool -> 9223372036854775807
+london -> 432429897
+berlin -> 54321311

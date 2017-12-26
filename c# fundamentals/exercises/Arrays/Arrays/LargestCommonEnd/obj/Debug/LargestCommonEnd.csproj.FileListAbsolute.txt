@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\LargestCommonEnd\bin\Debug\LargestCommonEnd.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\LargestCommonEnd\bin\Debug\LargestCommonEnd.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\LargestCommonEnd\bin\Debug\LargestCommonEnd.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\LargestCommonEnd\obj\Debug\LargestCommonEnd.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\LargestCommonEnd\obj\Debug\LargestCommonEnd.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\LargestCommonEnd\obj\Debug\LargestCommonEnd.pdb

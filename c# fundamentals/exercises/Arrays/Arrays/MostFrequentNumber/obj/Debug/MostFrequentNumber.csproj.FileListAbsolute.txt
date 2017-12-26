@@ -1,0 +1,1 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config

@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\SumReversedNumbers\bin\Debug\SumReversedNumbers.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\SumReversedNumbers\obj\Debug\SumReversedNumbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\SumReversedNumbers\obj\Debug\SumReversedNumbers.pdb

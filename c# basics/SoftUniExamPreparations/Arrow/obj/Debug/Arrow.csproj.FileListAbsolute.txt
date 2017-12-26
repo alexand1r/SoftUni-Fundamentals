@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Arrow\bin\Debug\Arrow.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\Arrow\bin\Debug\Arrow.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Arrow\bin\Debug\Arrow.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\Arrow\obj\Debug\Arrow.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\Arrow\obj\Debug\Arrow.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Arrow\obj\Debug\Arrow.pdb

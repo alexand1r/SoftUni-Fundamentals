@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.exe
+E:\softuni\real\c#\SoftUniExamPreparations\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.exe
+E:\softuni\real\c#\SoftUniExamPreparations\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.pdb

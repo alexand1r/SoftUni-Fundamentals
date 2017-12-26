@@ -1,0 +1,5 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\5.BubbleSort\bin\Debug\5.BubbleSort.exe.config
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\5.BubbleSort\bin\Debug\5.BubbleSort.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\5.BubbleSort\bin\Debug\5.BubbleSort.pdb
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\5.BubbleSort\obj\Debug\5.BubbleSort.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\5.BubbleSort\obj\Debug\5.BubbleSort.pdb

@@ -1,0 +1,5 @@
+E:\softuni\real\c#\SoftUniExamPreparations\StripedTowel\bin\Debug\StripedTowel.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\StripedTowel\bin\Debug\StripedTowel.exe
+E:\softuni\real\c#\SoftUniExamPreparations\StripedTowel\bin\Debug\StripedTowel.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\StripedTowel\obj\Debug\StripedTowel.exe
+E:\softuni\real\c#\SoftUniExamPreparations\StripedTowel\obj\Debug\StripedTowel.pdb

@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\BitRoller\bin\Debug\BitRoller.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\BitRoller\bin\Debug\BitRoller.exe
+E:\softuni\real\c#\SoftUniExamPreparations\BitRoller\bin\Debug\BitRoller.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\BitRoller\obj\Debug\BitRoller.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\BitRoller\obj\Debug\BitRoller.exe
+E:\softuni\real\c#\SoftUniExamPreparations\BitRoller\obj\Debug\BitRoller.pdb

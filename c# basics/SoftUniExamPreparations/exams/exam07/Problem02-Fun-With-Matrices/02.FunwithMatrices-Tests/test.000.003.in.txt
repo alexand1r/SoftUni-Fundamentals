@@ -1,0 +1,7 @@
+-2444411
+500000
+2 2 power 3
+2 3 multiply -0.05
+2 0 multiply 1.11
+0 0 sum 13.99
+Game Over!

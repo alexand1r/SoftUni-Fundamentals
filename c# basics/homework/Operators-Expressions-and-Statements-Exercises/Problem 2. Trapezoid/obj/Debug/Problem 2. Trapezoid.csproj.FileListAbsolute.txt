@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 2. Trapezoid\bin\Debug\Problem_2.Trapezoid.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 2. Trapezoid\bin\Debug\Problem_2.Trapezoid.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 2. Trapezoid\bin\Debug\Problem_2.Trapezoid.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 2. Trapezoid\obj\Debug\Problem_2.Trapezoid.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 2. Trapezoid\obj\Debug\Problem_2.Trapezoid.pdb

@@ -1,0 +1,1 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\MagicCarNumbers\bin\Debug\MagicCarNumbers.exe.config

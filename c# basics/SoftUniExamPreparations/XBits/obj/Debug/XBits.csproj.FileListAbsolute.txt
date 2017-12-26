@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\XBits\bin\Debug\XBits.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\XBits\bin\Debug\XBits.exe
+E:\softuni\real\c#\SoftUniExamPreparations\XBits\bin\Debug\XBits.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\XBits\obj\Debug\XBits.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\XBits\obj\Debug\XBits.exe
+E:\softuni\real\c#\SoftUniExamPreparations\XBits\obj\Debug\XBits.pdb

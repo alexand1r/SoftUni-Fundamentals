@@ -1,0 +1,7 @@
+Bulgaria -> 3
+France -> 1
+Germany -> 2
+UK -> 1
+london -> 432429897
+berlin -> 54321311
+paris -> 4235435

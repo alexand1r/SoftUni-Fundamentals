@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Tri-bit Switch\bin\Debug\Tri-bit Switch.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Tri-bit Switch\bin\Debug\Tri-bit Switch.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Tri-bit Switch\bin\Debug\Tri-bit Switch.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Tri-bit Switch\obj\Debug\Tri-bit Switch.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Tri-bit Switch\obj\Debug\Tri-bit Switch.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Tri-bit Switch\obj\Debug\Tri-bit Switch.csprojResolveAssemblyReference.cache

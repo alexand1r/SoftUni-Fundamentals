@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\2x2SquaresInMatrix\obj\Debug\2x2SquaresInMatrix.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\2x2SquaresInMatrix\obj\Debug\2x2SquaresInMatrix.pdb

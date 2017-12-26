@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Console-Input-Output-Homework\12.NumbersInIntervalDividableByGivenNumber\bin\Debug\12.NumbersInIntervalDividableByGivenNumber.exe.config
+E:\softuni\real\c#\Console-Input-Output-Homework\12.NumbersInIntervalDividableByGivenNumber\bin\Debug\12.NumbersInIntervalDividableByGivenNumber.exe
+E:\softuni\real\c#\Console-Input-Output-Homework\12.NumbersInIntervalDividableByGivenNumber\bin\Debug\12.NumbersInIntervalDividableByGivenNumber.pdb
+E:\softuni\real\c#\Console-Input-Output-Homework\12.NumbersInIntervalDividableByGivenNumber\obj\Debug\12.NumbersInIntervalDividableByGivenNumber.exe
+E:\softuni\real\c#\Console-Input-Output-Homework\12.NumbersInIntervalDividableByGivenNumber\obj\Debug\12.NumbersInIntervalDividableByGivenNumber.pdb

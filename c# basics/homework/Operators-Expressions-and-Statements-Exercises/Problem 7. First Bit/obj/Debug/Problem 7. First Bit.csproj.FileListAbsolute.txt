@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 7. First Bit\bin\Debug\Problem_7.First_Bit.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 7. First Bit\bin\Debug\Problem_7.First_Bit.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 7. First Bit\bin\Debug\Problem_7.First_Bit.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 7. First Bit\obj\Debug\Problem_7.First_Bit.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 7. First Bit\obj\Debug\Problem_7.First_Bit.pdb

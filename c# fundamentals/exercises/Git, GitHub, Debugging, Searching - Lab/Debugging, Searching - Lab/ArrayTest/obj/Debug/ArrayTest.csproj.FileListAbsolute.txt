@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\ArrayTest\bin\Debug\ArrayTest.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\ArrayTest\bin\Debug\ArrayTest.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\ArrayTest\bin\Debug\ArrayTest.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\ArrayTest\obj\Debug\ArrayTest.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\ArrayTest\obj\Debug\ArrayTest.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\ArrayTest\obj\Debug\ArrayTest.pdb

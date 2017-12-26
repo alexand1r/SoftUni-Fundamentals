@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\BeerStock\bin\Debug\BeerStock.exe.config
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\BeerStock\bin\Debug\BeerStock.exe
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\BeerStock\bin\Debug\BeerStock.pdb
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\BeerStock\obj\Debug\BeerStock.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\BeerStock\obj\Debug\BeerStock.exe
+E:\softuni\real\c#\Programming Basics Exam - 17 January 2016\BeerStock\obj\Debug\BeerStock.pdb

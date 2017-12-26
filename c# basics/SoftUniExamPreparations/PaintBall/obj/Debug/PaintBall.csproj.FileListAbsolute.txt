@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\PaintBall\bin\Debug\PaintBall.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\PaintBall\bin\Debug\PaintBall.exe
+E:\softuni\real\c#\SoftUniExamPreparations\PaintBall\bin\Debug\PaintBall.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\PaintBall\obj\Debug\PaintBall.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\PaintBall\obj\Debug\PaintBall.exe
+E:\softuni\real\c#\SoftUniExamPreparations\PaintBall\obj\Debug\PaintBall.pdb

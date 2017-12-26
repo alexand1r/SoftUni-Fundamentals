@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\TextBombardment\bin\Debug\TextBombardment.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\TextBombardment\bin\Debug\TextBombardment.exe
+E:\softuni\real\c#\SoftUniExamPreparations\TextBombardment\bin\Debug\TextBombardment.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\TextBombardment\obj\Debug\TextBombardment.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\TextBombardment\obj\Debug\TextBombardment.exe
+E:\softuni\real\c#\SoftUniExamPreparations\TextBombardment\obj\Debug\TextBombardment.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TextBombardment\bin\Debug\TextBombardment.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TextBombardment\obj\Debug\TextBombardment.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TextBombardment\obj\Debug\TextBombardment.pdb

@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\BombNumbers\bin\Debug\BombNumbers.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\BombNumbers\bin\Debug\BombNumbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\BombNumbers\bin\Debug\BombNumbers.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\BombNumbers\obj\Debug\BombNumbers.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\BombNumbers\obj\Debug\BombNumbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\BombNumbers\obj\Debug\BombNumbers.pdb

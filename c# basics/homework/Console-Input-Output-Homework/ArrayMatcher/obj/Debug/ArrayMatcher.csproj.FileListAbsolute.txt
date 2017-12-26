@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Console-Input-Output-Homework\ArrayMatcher\bin\Debug\ArrayMatcher.exe.config
+E:\softuni\real\c#\Console-Input-Output-Homework\ArrayMatcher\bin\Debug\ArrayMatcher.exe
+E:\softuni\real\c#\Console-Input-Output-Homework\ArrayMatcher\bin\Debug\ArrayMatcher.pdb
+E:\softuni\real\c#\Console-Input-Output-Homework\ArrayMatcher\obj\Debug\ArrayMatcher.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Console-Input-Output-Homework\ArrayMatcher\obj\Debug\ArrayMatcher.exe
+E:\softuni\real\c#\Console-Input-Output-Homework\ArrayMatcher\obj\Debug\ArrayMatcher.pdb

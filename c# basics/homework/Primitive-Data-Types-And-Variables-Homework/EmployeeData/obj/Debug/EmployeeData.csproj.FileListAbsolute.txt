@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\EmployeeData\bin\Debug\EmployeeData.exe.config
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\EmployeeData\bin\Debug\EmployeeData.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\EmployeeData\bin\Debug\EmployeeData.pdb
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\EmployeeData\obj\Debug\EmployeeData.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\EmployeeData\obj\Debug\EmployeeData.pdb

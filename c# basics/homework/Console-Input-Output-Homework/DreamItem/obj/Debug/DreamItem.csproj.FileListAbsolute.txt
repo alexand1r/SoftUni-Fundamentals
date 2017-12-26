@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Console-Input-Output-Homework\DreamItem\bin\Debug\DreamItem.exe.config
+E:\softuni\real\c#\Console-Input-Output-Homework\DreamItem\bin\Debug\DreamItem.exe
+E:\softuni\real\c#\Console-Input-Output-Homework\DreamItem\bin\Debug\DreamItem.pdb
+E:\softuni\real\c#\Console-Input-Output-Homework\DreamItem\obj\Debug\DreamItem.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Console-Input-Output-Homework\DreamItem\obj\Debug\DreamItem.exe
+E:\softuni\real\c#\Console-Input-Output-Homework\DreamItem\obj\Debug\DreamItem.pdb

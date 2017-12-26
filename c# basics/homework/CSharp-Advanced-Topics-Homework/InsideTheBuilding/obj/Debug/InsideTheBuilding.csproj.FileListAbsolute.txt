@@ -1,0 +1,6 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe.config
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\InsideTheBuilding\bin\Debug\InsideTheBuilding.pdb
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\InsideTheBuilding\obj\Debug\InsideTheBuilding.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\InsideTheBuilding\obj\Debug\InsideTheBuilding.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\InsideTheBuilding\obj\Debug\InsideTheBuilding.pdb

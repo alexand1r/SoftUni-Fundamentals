@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\AdvertisementMessage\bin\Debug\AdvertisementMessage.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\AdvertisementMessage\obj\Debug\AdvertisementMessage.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\AdvertisementMessage\obj\Debug\AdvertisementMessage.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\AdvertisementMessage\obj\Debug\AdvertisementMessage.pdb

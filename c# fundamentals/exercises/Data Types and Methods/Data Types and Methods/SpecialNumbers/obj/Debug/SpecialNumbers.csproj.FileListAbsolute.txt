@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

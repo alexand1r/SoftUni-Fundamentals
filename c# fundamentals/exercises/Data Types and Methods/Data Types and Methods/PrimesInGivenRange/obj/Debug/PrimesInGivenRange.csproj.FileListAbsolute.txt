@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.pdb

@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\MatrixGenerator\bin\Debug\MatrixGenerator.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\MatrixGenerator\bin\Debug\MatrixGenerator.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\MatrixGenerator\bin\Debug\MatrixGenerator.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\MatrixGenerator\obj\Debug\MatrixGenerator.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\MatrixGenerator\obj\Debug\MatrixGenerator.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\MatrixGenerator\obj\Debug\MatrixGenerator.pdb

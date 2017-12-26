@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\CatchTheBits\bin\Debug\CatchTheBits.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\CatchTheBits\bin\Debug\CatchTheBits.exe
+E:\softuni\real\c#\SoftUniExamPreparations\CatchTheBits\bin\Debug\CatchTheBits.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\CatchTheBits\obj\Debug\CatchTheBits.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\CatchTheBits\obj\Debug\CatchTheBits.exe
+E:\softuni\real\c#\SoftUniExamPreparations\CatchTheBits\obj\Debug\CatchTheBits.pdb

@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Programming Basics 24 April 2016\GameOfNames\bin\Debug\GameOfNames.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Programming Basics 24 April 2016\GameOfNames\bin\Debug\GameOfNames.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Programming Basics 24 April 2016\GameOfNames\bin\Debug\GameOfNames.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Programming Basics 24 April 2016\GameOfNames\obj\Debug\GameOfNames.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Programming Basics 24 April 2016\GameOfNames\obj\Debug\GameOfNames.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Programming Basics 24 April 2016\GameOfNames\obj\Debug\GameOfNames.pdb

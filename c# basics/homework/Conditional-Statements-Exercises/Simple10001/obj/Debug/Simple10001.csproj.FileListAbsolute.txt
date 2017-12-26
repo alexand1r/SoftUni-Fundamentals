@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Conditional-Statements-Exercises\Simple10001\bin\Debug\Simple10001.exe.config
+E:\softuni\real\c#\Conditional-Statements-Exercises\Simple10001\bin\Debug\Simple10001.exe
+E:\softuni\real\c#\Conditional-Statements-Exercises\Simple10001\bin\Debug\Simple10001.pdb
+E:\softuni\real\c#\Conditional-Statements-Exercises\Simple10001\obj\Debug\Simple10001.exe
+E:\softuni\real\c#\Conditional-Statements-Exercises\Simple10001\obj\Debug\Simple10001.pdb
+E:\softuni\real\c#\Conditional-Statements-Exercises\Simple10001\obj\Debug\Simple10001.csprojResolveAssemblyReference.cache

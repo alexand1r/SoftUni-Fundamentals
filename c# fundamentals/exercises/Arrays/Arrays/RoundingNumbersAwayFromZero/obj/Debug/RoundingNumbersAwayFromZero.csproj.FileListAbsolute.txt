@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\RoundingNumbersAwayFromZero\bin\Debug\RoundingNumbersAwayFromZero.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\RoundingNumbersAwayFromZero\bin\Debug\RoundingNumbersAwayFromZero.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\RoundingNumbersAwayFromZero\bin\Debug\RoundingNumbersAwayFromZero.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\RoundingNumbersAwayFromZero\obj\Debug\RoundingNumbersAwayFromZero.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\RoundingNumbersAwayFromZero\obj\Debug\RoundingNumbersAwayFromZero.pdb

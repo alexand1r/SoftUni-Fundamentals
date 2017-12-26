@@ -1,0 +1,1 @@
+E:\softuni\real\c#\Loops-Homework\FourFactors\bin\Debug\FourFactors.exe.config

@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\PiggyBank\bin\Debug\PiggyBank.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\PiggyBank\bin\Debug\PiggyBank.exe
+E:\softuni\real\c#\SoftUniExamPreparations\PiggyBank\bin\Debug\PiggyBank.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\PiggyBank\obj\Debug\PiggyBank.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\PiggyBank\obj\Debug\PiggyBank.exe
+E:\softuni\real\c#\SoftUniExamPreparations\PiggyBank\obj\Debug\PiggyBank.pdb

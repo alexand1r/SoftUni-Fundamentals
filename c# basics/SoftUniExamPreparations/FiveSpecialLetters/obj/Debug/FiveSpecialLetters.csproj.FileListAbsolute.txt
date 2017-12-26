@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe
+E:\softuni\real\c#\SoftUniExamPreparations\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.exe
+E:\softuni\real\c#\SoftUniExamPreparations\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.pdb

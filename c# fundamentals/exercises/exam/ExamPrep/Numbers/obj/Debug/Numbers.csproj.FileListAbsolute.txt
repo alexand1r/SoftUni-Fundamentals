@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\Numbers\bin\Debug\Numbers.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\Numbers\bin\Debug\Numbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\Numbers\bin\Debug\Numbers.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\Numbers\obj\Debug\Numbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\Numbers\obj\Debug\Numbers.pdb

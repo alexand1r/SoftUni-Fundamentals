@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\DiagonalDifference\bin\Debug\DiagonalDifference.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\DiagonalDifference\bin\Debug\DiagonalDifference.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\DiagonalDifference\obj\Debug\DiagonalDifference.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\DiagonalDifference\obj\Debug\DiagonalDifference.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\DiagonalDifference\obj\Debug\DiagonalDifference.pdb

@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\PandaScotlandFlag\bin\Debug\PandaScotlandFlag.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\PandaScotlandFlag\bin\Debug\PandaScotlandFlag.exe
+E:\softuni\real\c#\SoftUniExamPreparations\PandaScotlandFlag\bin\Debug\PandaScotlandFlag.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\PandaScotlandFlag\obj\Debug\PandaScotlandFlag.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\PandaScotlandFlag\obj\Debug\PandaScotlandFlag.exe
+E:\softuni\real\c#\SoftUniExamPreparations\PandaScotlandFlag\obj\Debug\PandaScotlandFlag.pdb

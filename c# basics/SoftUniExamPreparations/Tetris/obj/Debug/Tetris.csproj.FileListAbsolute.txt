@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Tetris\bin\Debug\Tetris.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\Tetris\bin\Debug\Tetris.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Tetris\bin\Debug\Tetris.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\Tetris\obj\Debug\Tetris.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Tetris\obj\Debug\Tetris.pdb

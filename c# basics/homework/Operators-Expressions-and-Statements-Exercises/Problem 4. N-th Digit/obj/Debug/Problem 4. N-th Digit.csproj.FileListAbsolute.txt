@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 4. N-th Digit\bin\Debug\Problem_4.N_th_Digit.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 4. N-th Digit\bin\Debug\Problem_4.N_th_Digit.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 4. N-th Digit\bin\Debug\Problem_4.N_th_Digit.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 4. N-th Digit\obj\Debug\Problem_4.N_th_Digit.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 4. N-th Digit\obj\Debug\Problem_4.N_th_Digit.pdb

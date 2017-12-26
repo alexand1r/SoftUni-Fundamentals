@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\OddOrEvenCounter\bin\Debug\OddOrEvenCounter.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\OddOrEvenCounter\bin\Debug\OddOrEvenCounter.exe
+E:\softuni\real\c#\SoftUniExamPreparations\OddOrEvenCounter\bin\Debug\OddOrEvenCounter.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\OddOrEvenCounter\obj\Debug\OddOrEvenCounter.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\OddOrEvenCounter\obj\Debug\OddOrEvenCounter.exe
+E:\softuni\real\c#\SoftUniExamPreparations\OddOrEvenCounter\obj\Debug\OddOrEvenCounter.pdb

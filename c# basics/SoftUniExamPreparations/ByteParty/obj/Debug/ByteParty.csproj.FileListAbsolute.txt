@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\ByteParty\bin\Debug\ByteParty.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\ByteParty\bin\Debug\ByteParty.exe
+E:\softuni\real\c#\SoftUniExamPreparations\ByteParty\bin\Debug\ByteParty.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\ByteParty\obj\Debug\ByteParty.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\ByteParty\obj\Debug\ByteParty.exe
+E:\softuni\real\c#\SoftUniExamPreparations\ByteParty\obj\Debug\ByteParty.pdb

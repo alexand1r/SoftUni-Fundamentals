@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\SumOfElements\bin\Debug\SumOfElements.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\SumOfElements\bin\Debug\SumOfElements.exe
+E:\softuni\real\c#\SoftUniExamPreparations\SumOfElements\bin\Debug\SumOfElements.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\SumOfElements\obj\Debug\SumOfElements.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\SumOfElements\obj\Debug\SumOfElements.exe
+E:\softuni\real\c#\SoftUniExamPreparations\SumOfElements\obj\Debug\SumOfElements.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\SumOfElements\bin\Debug\SumOfElements.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\SumOfElements\obj\Debug\SumOfElements.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\SumOfElements\obj\Debug\SumOfElements.pdb

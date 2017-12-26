@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Loops-Homework\4.PrintADeckOf52Cards\bin\Debug\4.PrintADeckOf52Cards.exe.config
+E:\softuni\real\c#\Loops-Homework\4.PrintADeckOf52Cards\bin\Debug\4.PrintADeckOf52Cards.exe
+E:\softuni\real\c#\Loops-Homework\4.PrintADeckOf52Cards\bin\Debug\4.PrintADeckOf52Cards.pdb
+E:\softuni\real\c#\Loops-Homework\4.PrintADeckOf52Cards\obj\Debug\4.PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Loops-Homework\4.PrintADeckOf52Cards\obj\Debug\4.PrintADeckOf52Cards.exe
+E:\softuni\real\c#\Loops-Homework\4.PrintADeckOf52Cards\obj\Debug\4.PrintADeckOf52Cards.pdb

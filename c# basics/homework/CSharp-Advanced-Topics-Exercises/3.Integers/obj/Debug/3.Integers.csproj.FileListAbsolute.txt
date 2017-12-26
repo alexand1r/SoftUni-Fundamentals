@@ -1,0 +1,5 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\3.Integers\bin\Debug\3.Integers.exe.config
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\3.Integers\bin\Debug\3.Integers.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\3.Integers\bin\Debug\3.Integers.pdb
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\3.Integers\obj\Debug\3.Integers.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\3.Integers\obj\Debug\3.Integers.pdb

@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Disk\bin\Debug\Disk.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\Disk\bin\Debug\Disk.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Disk\bin\Debug\Disk.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\Disk\obj\Debug\Disk.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\Disk\obj\Debug\Disk.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Disk\obj\Debug\Disk.pdb

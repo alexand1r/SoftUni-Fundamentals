@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 5. Big and Odd\bin\Debug\Problem_5.Big_and_Odd.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 5. Big and Odd\bin\Debug\Problem_5.Big_and_Odd.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 5. Big and Odd\bin\Debug\Problem_5.Big_and_Odd.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 5. Big and Odd\obj\Debug\Problem_5.Big_and_Odd.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 5. Big and Odd\obj\Debug\Problem_5.Big_and_Odd.pdb

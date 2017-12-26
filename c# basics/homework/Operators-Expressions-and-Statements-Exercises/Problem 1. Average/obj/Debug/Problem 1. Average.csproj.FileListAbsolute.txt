@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 1. Average\bin\Debug\Problem_1.Average.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 1. Average\bin\Debug\Problem_1.Average.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 1. Average\bin\Debug\Problem_1.Average.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 1. Average\obj\Debug\Problem 1. Average.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 1. Average\obj\Debug\Problem_1.Average.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 1. Average\obj\Debug\Problem_1.Average.pdb

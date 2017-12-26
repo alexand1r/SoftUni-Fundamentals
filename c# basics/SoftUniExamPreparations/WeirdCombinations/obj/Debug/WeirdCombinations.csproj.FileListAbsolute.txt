@@ -1,0 +1,2 @@
+E:\softuni\real\c#\SoftUniExamPreparations\WeirdCombinations\bin\Debug\WeirdCombinations.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\WeirdCombinations\bin\Debug\WeirdCombinations.exe.config

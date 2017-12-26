@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.pdb

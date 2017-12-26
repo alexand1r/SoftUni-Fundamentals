@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\ClosestPoints\bin\Debug\ClosestPoints.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\ClosestPoints\bin\Debug\ClosestPoints.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\ClosestPoints\bin\Debug\ClosestPoints.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\ClosestPoints\obj\Debug\ClosestPoints.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\ClosestPoints\obj\Debug\ClosestPoints.pdb

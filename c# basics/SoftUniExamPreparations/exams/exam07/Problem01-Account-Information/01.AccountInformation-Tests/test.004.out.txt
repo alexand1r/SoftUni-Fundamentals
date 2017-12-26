@@ -1,0 +1,4 @@
+Hello, Vlado Drakula
+Client id: 182458583
+Total balance: 90.10
+Active: yes

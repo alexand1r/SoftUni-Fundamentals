@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Car\bin\Debug\Car.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\Car\bin\Debug\Car.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Car\bin\Debug\Car.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\Car\obj\Debug\Car.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Car\obj\Debug\Car.pdb

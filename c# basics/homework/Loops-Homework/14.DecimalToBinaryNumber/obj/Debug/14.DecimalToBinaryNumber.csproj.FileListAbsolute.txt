@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Loops-Homework\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.exe.config
+E:\softuni\real\c#\Loops-Homework\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.exe
+E:\softuni\real\c#\Loops-Homework\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.pdb
+E:\softuni\real\c#\Loops-Homework\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.exe
+E:\softuni\real\c#\Loops-Homework\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.pdb

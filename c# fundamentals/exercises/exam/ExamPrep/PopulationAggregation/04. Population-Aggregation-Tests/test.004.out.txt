@@ -1,0 +1,6 @@
+Bulgaria -> 3
+France -> 1
+Germany -> 2
+berlin -> 54321311
+paris -> 4235435
+hamburg -> 233333

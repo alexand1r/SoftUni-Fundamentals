@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Star\bin\Debug\Star.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\Star\bin\Debug\Star.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Star\bin\Debug\Star.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\Star\obj\Debug\Star.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\Star\obj\Debug\Star.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Star\obj\Debug\Star.pdb

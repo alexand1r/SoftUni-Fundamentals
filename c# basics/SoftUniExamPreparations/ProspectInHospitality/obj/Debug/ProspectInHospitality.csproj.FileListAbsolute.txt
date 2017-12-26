@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\ProspectInHospitality\bin\Debug\ProspectInHospitality.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\ProspectInHospitality\bin\Debug\ProspectInHospitality.exe
+E:\softuni\real\c#\SoftUniExamPreparations\ProspectInHospitality\bin\Debug\ProspectInHospitality.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\ProspectInHospitality\obj\Debug\ProspectInHospitality.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\ProspectInHospitality\obj\Debug\ProspectInHospitality.exe
+E:\softuni\real\c#\SoftUniExamPreparations\ProspectInHospitality\obj\Debug\ProspectInHospitality.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\ProspectInHospitality\bin\Debug\ProspectInHospitality.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\ProspectInHospitality\obj\Debug\ProspectInHospitality.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\ProspectInHospitality\obj\Debug\ProspectInHospitality.pdb

@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
+E:\softuni\real\c#\Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+E:\softuni\real\c#\Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+E:\softuni\real\c#\Loops-Homework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Loops-Homework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+E:\softuni\real\c#\Loops-Homework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

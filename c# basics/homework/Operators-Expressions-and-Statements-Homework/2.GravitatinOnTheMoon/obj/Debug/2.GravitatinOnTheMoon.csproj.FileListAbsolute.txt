@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\2.GravitatinOnTheMoon\bin\Debug\2.GravitatinOnTheMoon.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\2.GravitatinOnTheMoon\bin\Debug\2.GravitatinOnTheMoon.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\2.GravitatinOnTheMoon\bin\Debug\2.GravitatinOnTheMoon.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\2.GravitatinOnTheMoon\obj\Debug\2.GravitatinOnTheMoon.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\2.GravitatinOnTheMoon\obj\Debug\2.GravitatinOnTheMoon.pdb

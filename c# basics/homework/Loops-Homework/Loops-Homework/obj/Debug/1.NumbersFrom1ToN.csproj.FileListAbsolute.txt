@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Loops-Homework\Loops-Homework\bin\Debug\Loops-Homework.exe.config
+E:\softuni\real\c#\Loops-Homework\Loops-Homework\bin\Debug\Loops-Homework.exe
+E:\softuni\real\c#\Loops-Homework\Loops-Homework\bin\Debug\Loops-Homework.pdb
+E:\softuni\real\c#\Loops-Homework\Loops-Homework\obj\Debug\1.NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Loops-Homework\Loops-Homework\obj\Debug\Loops-Homework.exe
+E:\softuni\real\c#\Loops-Homework\Loops-Homework\obj\Debug\Loops-Homework.pdb

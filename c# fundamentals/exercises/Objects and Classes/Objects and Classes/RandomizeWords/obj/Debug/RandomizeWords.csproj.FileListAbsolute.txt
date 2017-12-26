@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\RandomizeWords\bin\Debug\RandomizeWords.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\RandomizeWords\bin\Debug\RandomizeWords.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\RandomizeWords\bin\Debug\RandomizeWords.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\RandomizeWords\obj\Debug\RandomizeWords.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\RandomizeWords\obj\Debug\RandomizeWords.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Objects and Classes\Objects and Classes\RandomizeWords\obj\Debug\RandomizeWords.pdb

@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\EnglishNameOfTheLastDigit\bin\Debug\EnglishNameOfTheLastDigit.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\EnglishNameOfTheLastDigit\bin\Debug\EnglishNameOfTheLastDigit.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\EnglishNameOfTheLastDigit\bin\Debug\EnglishNameOfTheLastDigit.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\EnglishNameOfTheLastDigit\obj\Debug\EnglishNameOfTheLastDigit.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\EnglishNameOfTheLastDigit\obj\Debug\EnglishNameOfTheLastDigit.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\EnglishNameOfTheLastDigit\obj\Debug\EnglishNameOfTheLastDigit.pdb

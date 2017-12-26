@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Conditional-Statements-Homework\EncryptTheMessages\bin\Debug\EncryptTheMessages.exe.config
+E:\softuni\real\c#\Conditional-Statements-Homework\EncryptTheMessages\bin\Debug\EncryptTheMessages.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\EncryptTheMessages\bin\Debug\EncryptTheMessages.pdb
+E:\softuni\real\c#\Conditional-Statements-Homework\EncryptTheMessages\obj\Debug\EncryptTheMessages.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Conditional-Statements-Homework\EncryptTheMessages\obj\Debug\EncryptTheMessages.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\EncryptTheMessages\obj\Debug\EncryptTheMessages.pdb

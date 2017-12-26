@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Conditional-Statements-Homework\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+E:\softuni\real\c#\Conditional-Statements-Homework\CompoundInterest\bin\Debug\CompoundInterest.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\CompoundInterest\bin\Debug\CompoundInterest.pdb
+E:\softuni\real\c#\Conditional-Statements-Homework\CompoundInterest\obj\Debug\CompoundInterest.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Conditional-Statements-Homework\CompoundInterest\obj\Debug\CompoundInterest.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\CompoundInterest\obj\Debug\CompoundInterest.pdb

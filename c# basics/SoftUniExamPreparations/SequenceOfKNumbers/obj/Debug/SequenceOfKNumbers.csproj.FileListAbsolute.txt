@@ -1,0 +1,2 @@
+E:\softuni\real\c#\SoftUniExamPreparations\SequenceOfKNumbers\bin\Debug\SequenceOfKNumbers.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\SequenceOfKNumbers\bin\Debug\SequenceOfKNumbers.exe.config

@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\BookProblem\bin\Debug\BookProblem.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\BookProblem\bin\Debug\BookProblem.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\BookProblem\bin\Debug\BookProblem.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\BookProblem\obj\Debug\BookProblem.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\BookProblem\obj\Debug\BookProblem.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\BookProblem\obj\Debug\BookProblem.pdb

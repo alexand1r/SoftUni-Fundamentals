@@ -1,0 +1,7 @@
+Bulgaria -> 2
+France -> 1
+Germany -> 2
+UK -> 1
+london -> 98686644
+varna -> 32145535
+paris -> 30000000

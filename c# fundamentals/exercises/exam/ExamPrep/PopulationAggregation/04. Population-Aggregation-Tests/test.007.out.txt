@@ -1,0 +1,2 @@
+Bulgaria -> 1
+burgas -> 99993

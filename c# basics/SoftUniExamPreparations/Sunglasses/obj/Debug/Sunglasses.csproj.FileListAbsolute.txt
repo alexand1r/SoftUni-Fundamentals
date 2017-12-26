@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Sunglasses\bin\Debug\Sunglasses.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\Sunglasses\bin\Debug\Sunglasses.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Sunglasses\bin\Debug\Sunglasses.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\Sunglasses\obj\Debug\Sunglasses.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Sunglasses\obj\Debug\Sunglasses.pdb

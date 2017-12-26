@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Conditional-Statements-Homework\1.ExchangeIfGreater\bin\Debug\1.ExchangeIfGreater.exe.config
+E:\softuni\real\c#\Conditional-Statements-Homework\1.ExchangeIfGreater\bin\Debug\1.ExchangeIfGreater.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\1.ExchangeIfGreater\bin\Debug\1.ExchangeIfGreater.pdb
+E:\softuni\real\c#\Conditional-Statements-Homework\1.ExchangeIfGreater\obj\Debug\1.ExchangeIfGreater.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Conditional-Statements-Homework\1.ExchangeIfGreater\obj\Debug\1.ExchangeIfGreater.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\1.ExchangeIfGreater\obj\Debug\1.ExchangeIfGreater.pdb

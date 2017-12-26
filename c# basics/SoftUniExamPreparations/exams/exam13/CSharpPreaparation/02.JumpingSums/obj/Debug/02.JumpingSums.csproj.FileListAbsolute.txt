@@ -1,0 +1,8 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\02.JumpingSums\bin\Debug\02.JumpingSums.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\02.JumpingSums\bin\Debug\02.JumpingSums.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\02.JumpingSums\bin\Debug\02.JumpingSums.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\02.JumpingSums\obj\Debug\02.JumpingSums.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\02.JumpingSums\obj\Debug\02.JumpingSums.pdb
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\02.JumpingSums\bin\Debug\02.JumpingSums.exe.config
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\02.JumpingSums\obj\Debug\02.JumpingSums.exe
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\02.JumpingSums\obj\Debug\02.JumpingSums.pdb

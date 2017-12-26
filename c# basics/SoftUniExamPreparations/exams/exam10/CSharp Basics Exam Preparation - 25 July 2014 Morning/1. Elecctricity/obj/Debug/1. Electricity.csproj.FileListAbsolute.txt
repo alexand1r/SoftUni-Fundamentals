@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\1. Elecctricity\bin\Debug\_1.Elecctricity.exe.config
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\1. Elecctricity\bin\Debug\_1.Elecctricity.exe
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\1. Elecctricity\bin\Debug\_1.Elecctricity.pdb
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\1. Elecctricity\obj\Debug\1. Electricity.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\1. Elecctricity\obj\Debug\_1.Elecctricity.exe
+C:\Users\pc\Desktop\CSharp Basics Exam Preparation\1. Elecctricity\obj\Debug\_1.Elecctricity.pdb
+E:\softuni\real\c#\stuff\8. CSharp-Basics-Exam-Preparation-Yordan-Darakchiev\CSharp Basics Exam Preparation - 25 July 2014 Morning\1. Elecctricity\bin\Debug\_1.Elecctricity.exe.config
+E:\softuni\real\c#\stuff\8. CSharp-Basics-Exam-Preparation-Yordan-Darakchiev\CSharp Basics Exam Preparation - 25 July 2014 Morning\1. Elecctricity\obj\Debug\_1.Elecctricity.exe
+E:\softuni\real\c#\stuff\8. CSharp-Basics-Exam-Preparation-Yordan-Darakchiev\CSharp Basics Exam Preparation - 25 July 2014 Morning\1. Elecctricity\obj\Debug\_1.Elecctricity.pdb

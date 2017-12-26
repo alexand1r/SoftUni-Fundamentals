@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BooleanVariable\bin\Debug\BooleanVariable.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BooleanVariable\bin\Debug\BooleanVariable.pdb
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BooleanVariable\obj\Debug\BooleanVariable.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BooleanVariable\obj\Debug\BooleanVariable.pdb

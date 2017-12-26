@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 8. p-th Bit\bin\Debug\Problem_8.p_th_Bit.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 8. p-th Bit\bin\Debug\Problem_8.p_th_Bit.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 8. p-th Bit\bin\Debug\Problem_8.p_th_Bit.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 8. p-th Bit\obj\Debug\Problem_8.p_th_Bit.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Exercises\Problem 8. p-th Bit\obj\Debug\Problem_8.p_th_Bit.pdb

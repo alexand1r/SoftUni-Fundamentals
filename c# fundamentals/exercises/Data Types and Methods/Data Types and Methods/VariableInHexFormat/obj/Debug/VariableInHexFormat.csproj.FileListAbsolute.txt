@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\VariableInHexFormat\bin\Debug\VariableInHexFormat.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\VariableInHexFormat\bin\Debug\VariableInHexFormat.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\VariableInHexFormat\bin\Debug\VariableInHexFormat.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\VariableInHexFormat\obj\Debug\VariableInHexFormat.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\VariableInHexFormat\obj\Debug\VariableInHexFormat.pdb

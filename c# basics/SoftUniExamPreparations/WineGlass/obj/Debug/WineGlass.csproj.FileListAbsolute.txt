@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\WineGlass\bin\Debug\WineGlass.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\WineGlass\bin\Debug\WineGlass.exe
+E:\softuni\real\c#\SoftUniExamPreparations\WineGlass\bin\Debug\WineGlass.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\WineGlass\obj\Debug\WineGlass.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\WineGlass\obj\Debug\WineGlass.exe
+E:\softuni\real\c#\SoftUniExamPreparations\WineGlass\obj\Debug\WineGlass.pdb

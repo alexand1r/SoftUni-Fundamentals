@@ -1,0 +1,1 @@
+E:\softuni\real\c#\SoftUniExamPreparations\LongestAlphabeticalWord\bin\Debug\LongestAlphabeticalWord.exe.config

@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Loops-Homework\18.TrailingZeroesInNFac\bin\Debug\18.TrailingZeroesInNFac.exe.config
+E:\softuni\real\c#\Loops-Homework\18.TrailingZeroesInNFac\bin\Debug\18.TrailingZeroesInNFac.exe
+E:\softuni\real\c#\Loops-Homework\18.TrailingZeroesInNFac\bin\Debug\18.TrailingZeroesInNFac.pdb
+E:\softuni\real\c#\Loops-Homework\18.TrailingZeroesInNFac\obj\Debug\18.TrailingZeroesInNFac.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Loops-Homework\18.TrailingZeroesInNFac\obj\Debug\18.TrailingZeroesInNFac.exe
+E:\softuni\real\c#\Loops-Homework\18.TrailingZeroesInNFac\obj\Debug\18.TrailingZeroesInNFac.pdb

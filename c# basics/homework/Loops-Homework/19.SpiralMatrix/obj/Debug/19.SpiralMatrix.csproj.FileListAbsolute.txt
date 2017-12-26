@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Loops-Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe.config
+E:\softuni\real\c#\Loops-Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+E:\softuni\real\c#\Loops-Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+E:\softuni\real\c#\Loops-Homework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Loops-Homework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
+E:\softuni\real\c#\Loops-Homework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb

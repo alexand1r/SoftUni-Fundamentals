@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Loops-Homework\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.exe.config
+E:\softuni\real\c#\Loops-Homework\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.exe
+E:\softuni\real\c#\Loops-Homework\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.pdb
+E:\softuni\real\c#\Loops-Homework\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Loops-Homework\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.exe
+E:\softuni\real\c#\Loops-Homework\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.pdb

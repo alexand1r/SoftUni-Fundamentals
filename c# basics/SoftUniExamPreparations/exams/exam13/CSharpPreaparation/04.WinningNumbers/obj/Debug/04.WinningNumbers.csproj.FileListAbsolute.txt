@@ -1,0 +1,8 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\04.WinningNumbers\bin\Debug\04.WinningNumbers.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\04.WinningNumbers\bin\Debug\04.WinningNumbers.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\04.WinningNumbers\bin\Debug\04.WinningNumbers.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\04.WinningNumbers\obj\Debug\04.WinningNumbers.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\CSharpPreaparation\04.WinningNumbers\obj\Debug\04.WinningNumbers.pdb
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\04.WinningNumbers\bin\Debug\04.WinningNumbers.exe.config
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\04.WinningNumbers\obj\Debug\04.WinningNumbers.exe
+E:\softuni\real\c#\stuff\CSharpPreaparationNikolayBankin26August\CSharpPreaparation\04.WinningNumbers\obj\Debug\04.WinningNumbers.pdb

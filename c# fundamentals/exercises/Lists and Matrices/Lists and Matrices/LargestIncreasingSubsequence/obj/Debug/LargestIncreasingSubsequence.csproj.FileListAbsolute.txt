@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\LargestIncreasingSubsequence\bin\Debug\LargestIncreasingSubsequence.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\LargestIncreasingSubsequence\bin\Debug\LargestIncreasingSubsequence.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\LargestIncreasingSubsequence\bin\Debug\LargestIncreasingSubsequence.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\LargestIncreasingSubsequence\obj\Debug\LargestIncreasingSubsequence.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\LargestIncreasingSubsequence\obj\Debug\LargestIncreasingSubsequence.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\LargestIncreasingSubsequence\obj\Debug\LargestIncreasingSubsequence.pdb

@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\FunWithMatrices\bin\Debug\FunWithMatrices.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\FunWithMatrices\bin\Debug\FunWithMatrices.exe
+E:\softuni\real\c#\SoftUniExamPreparations\FunWithMatrices\bin\Debug\FunWithMatrices.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\FunWithMatrices\obj\Debug\FunWithMatrices.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\FunWithMatrices\obj\Debug\FunWithMatrices.exe
+E:\softuni\real\c#\SoftUniExamPreparations\FunWithMatrices\obj\Debug\FunWithMatrices.pdb

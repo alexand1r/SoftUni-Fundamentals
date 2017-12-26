@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\MatrixOfLetters\bin\Debug\MatrixOfLetters.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\MatrixOfLetters\bin\Debug\MatrixOfLetters.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\MatrixOfLetters\bin\Debug\MatrixOfLetters.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\MatrixOfLetters\obj\Debug\MatrixOfLetters.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\MatrixOfLetters\obj\Debug\MatrixOfLetters.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\MatrixOfLetters\obj\Debug\MatrixOfLetters.pdb

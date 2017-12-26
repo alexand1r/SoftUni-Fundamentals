@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Console-Input-Output-Homework\KnightPath\bin\Debug\KnightPath.exe.config
+E:\softuni\real\c#\Console-Input-Output-Homework\KnightPath\bin\Debug\KnightPath.exe
+E:\softuni\real\c#\Console-Input-Output-Homework\KnightPath\bin\Debug\KnightPath.pdb
+E:\softuni\real\c#\Console-Input-Output-Homework\KnightPath\obj\Debug\KnightPath.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Console-Input-Output-Homework\KnightPath\obj\Debug\KnightPath.exe
+E:\softuni\real\c#\Console-Input-Output-Homework\KnightPath\obj\Debug\KnightPath.pdb

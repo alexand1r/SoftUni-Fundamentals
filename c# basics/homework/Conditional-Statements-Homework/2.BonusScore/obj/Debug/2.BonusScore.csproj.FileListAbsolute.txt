@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Conditional-Statements-Homework\2.BonusScore\bin\Debug\2.BonusScore.exe.config
+E:\softuni\real\c#\Conditional-Statements-Homework\2.BonusScore\bin\Debug\2.BonusScore.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\2.BonusScore\bin\Debug\2.BonusScore.pdb
+E:\softuni\real\c#\Conditional-Statements-Homework\2.BonusScore\obj\Debug\2.BonusScore.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\2.BonusScore\obj\Debug\2.BonusScore.pdb

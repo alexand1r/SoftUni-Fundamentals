@@ -1,0 +1,1 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\SortNumbers\bin\Debug\SortNumbers.exe.config

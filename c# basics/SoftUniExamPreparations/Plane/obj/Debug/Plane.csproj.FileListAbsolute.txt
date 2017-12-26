@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Plane\bin\Debug\Plane.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\Plane\bin\Debug\Plane.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Plane\bin\Debug\Plane.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\Plane\obj\Debug\Plane.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\Plane\obj\Debug\Plane.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Plane\obj\Debug\Plane.pdb

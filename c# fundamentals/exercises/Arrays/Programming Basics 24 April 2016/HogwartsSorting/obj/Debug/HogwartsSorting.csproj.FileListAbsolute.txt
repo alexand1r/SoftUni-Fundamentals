@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Programming Basics 24 April 2016\HogwartsSorting\bin\Debug\HogwartsSorting.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Programming Basics 24 April 2016\HogwartsSorting\bin\Debug\HogwartsSorting.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Programming Basics 24 April 2016\HogwartsSorting\bin\Debug\HogwartsSorting.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Programming Basics 24 April 2016\HogwartsSorting\obj\Debug\HogwartsSorting.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Programming Basics 24 April 2016\HogwartsSorting\obj\Debug\HogwartsSorting.pdb

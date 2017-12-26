@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Conditional-Statements-Exercises\Archer\bin\Debug\Archer.exe.config
+E:\softuni\real\c#\Conditional-Statements-Exercises\Archer\bin\Debug\Archer.exe
+E:\softuni\real\c#\Conditional-Statements-Exercises\Archer\bin\Debug\Archer.pdb
+E:\softuni\real\c#\Conditional-Statements-Exercises\Archer\obj\Debug\Archer.exe
+E:\softuni\real\c#\Conditional-Statements-Exercises\Archer\obj\Debug\Archer.pdb

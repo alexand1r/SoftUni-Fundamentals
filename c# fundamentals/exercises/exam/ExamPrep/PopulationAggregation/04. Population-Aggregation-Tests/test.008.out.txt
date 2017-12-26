@@ -1,0 +1,4 @@
+Bulgaria -> 1
+UK -> 1
+liverpool -> 923123123434534
+burgas -> 99993

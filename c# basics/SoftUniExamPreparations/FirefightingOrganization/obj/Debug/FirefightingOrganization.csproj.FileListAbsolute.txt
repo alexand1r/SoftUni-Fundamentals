@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\FirefightingOrganization\bin\Debug\FirefightingOrganization.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\FirefightingOrganization\bin\Debug\FirefightingOrganization.exe
+E:\softuni\real\c#\SoftUniExamPreparations\FirefightingOrganization\bin\Debug\FirefightingOrganization.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\FirefightingOrganization\obj\Debug\FirefightingOrganization.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\FirefightingOrganization\obj\Debug\FirefightingOrganization.exe
+E:\softuni\real\c#\SoftUniExamPreparations\FirefightingOrganization\obj\Debug\FirefightingOrganization.pdb

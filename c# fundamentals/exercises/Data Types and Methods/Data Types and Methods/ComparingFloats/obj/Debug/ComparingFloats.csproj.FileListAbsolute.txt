@@ -1,0 +1,1 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\ComparingFloats\bin\Debug\ComparingFloats.exe.config

@@ -1,0 +1,1 @@
+E:\softuni\real\c#\Conditional-Statements-Homework\GameOfLife\bin\Debug\GameOfLife.exe.config

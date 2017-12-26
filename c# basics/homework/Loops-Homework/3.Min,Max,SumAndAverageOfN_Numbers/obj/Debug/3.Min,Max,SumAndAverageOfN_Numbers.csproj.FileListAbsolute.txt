@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Loops-Homework\3.Min,Max,SumAndAverageOfN_Numbers\bin\Debug\3.Min,Max,SumAndAverageOfN_Numbers.exe.config
+E:\softuni\real\c#\Loops-Homework\3.Min,Max,SumAndAverageOfN_Numbers\obj\Debug\3.Min,Max,SumAndAverageOfN_Numbers.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Loops-Homework\3.Min,Max,SumAndAverageOfN_Numbers\bin\Debug\3.Min,Max,SumAndAverageOfN_Numbers.exe
+E:\softuni\real\c#\Loops-Homework\3.Min,Max,SumAndAverageOfN_Numbers\bin\Debug\3.Min,Max,SumAndAverageOfN_Numbers.pdb
+E:\softuni\real\c#\Loops-Homework\3.Min,Max,SumAndAverageOfN_Numbers\obj\Debug\3.Min,Max,SumAndAverageOfN_Numbers.exe
+E:\softuni\real\c#\Loops-Homework\3.Min,Max,SumAndAverageOfN_Numbers\obj\Debug\3.Min,Max,SumAndAverageOfN_Numbers.pdb

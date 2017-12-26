@@ -1,0 +1,5 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\4.TextModification\bin\Debug\4.TextModification.exe.config
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\4.TextModification\bin\Debug\4.TextModification.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\4.TextModification\bin\Debug\4.TextModification.pdb
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\4.TextModification\obj\Debug\4.TextModification.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Exercises\4.TextModification\obj\Debug\4.TextModification.pdb

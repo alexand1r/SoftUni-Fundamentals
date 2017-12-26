@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

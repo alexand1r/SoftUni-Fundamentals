@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\HayvanNumbers\bin\Debug\HayvanNumbers.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\HayvanNumbers\bin\Debug\HayvanNumbers.exe
+E:\softuni\real\c#\SoftUniExamPreparations\HayvanNumbers\bin\Debug\HayvanNumbers.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\HayvanNumbers\obj\Debug\HayvanNumbers.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\HayvanNumbers\obj\Debug\HayvanNumbers.exe
+E:\softuni\real\c#\SoftUniExamPreparations\HayvanNumbers\obj\Debug\HayvanNumbers.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\HayvanNumbers\bin\Debug\HayvanNumbers.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\HayvanNumbers\obj\Debug\HayvanNumbers.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\HayvanNumbers\obj\Debug\HayvanNumbers.pdb

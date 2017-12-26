@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\MatrixOperator\bin\Debug\MatrixOperator.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\MatrixOperator\bin\Debug\MatrixOperator.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\MatrixOperator\bin\Debug\MatrixOperator.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\MatrixOperator\obj\Debug\MatrixOperator.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\MatrixOperator\obj\Debug\MatrixOperator.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\MatrixOperator\obj\Debug\MatrixOperator.pdb

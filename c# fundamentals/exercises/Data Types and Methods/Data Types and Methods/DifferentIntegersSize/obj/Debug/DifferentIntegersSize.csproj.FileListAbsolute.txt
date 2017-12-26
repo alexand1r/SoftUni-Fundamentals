@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.pdb

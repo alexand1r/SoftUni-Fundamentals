@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\TicTacToePower\bin\Debug\TicTacToePower.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\TicTacToePower\bin\Debug\TicTacToePower.exe
+E:\softuni\real\c#\SoftUniExamPreparations\TicTacToePower\bin\Debug\TicTacToePower.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\TicTacToePower\obj\Debug\TicTacToePower.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\TicTacToePower\obj\Debug\TicTacToePower.exe
+E:\softuni\real\c#\SoftUniExamPreparations\TicTacToePower\obj\Debug\TicTacToePower.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TicTacToePower\bin\Debug\TicTacToePower.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TicTacToePower\obj\Debug\TicTacToePower.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\TicTacToePower\obj\Debug\TicTacToePower.pdb

@@ -1,0 +1,12 @@
+15
+15
+0 0 multiply -3.5
+3 2 power -5.6
+3 1 power -7.6344
+3 0 power 0
+1 1 sum 55
+2 1 multiply 4
+2 2 sum 53164
+2 2 power -1
+2 3 power -0.5
+Game Over!

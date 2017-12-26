@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\TrippleSum\bin\Debug\TrippleSum.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\TrippleSum\bin\Debug\TrippleSum.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\TrippleSum\bin\Debug\TrippleSum.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\TrippleSum\obj\Debug\TrippleSum.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\TrippleSum\obj\Debug\TrippleSum.pdb

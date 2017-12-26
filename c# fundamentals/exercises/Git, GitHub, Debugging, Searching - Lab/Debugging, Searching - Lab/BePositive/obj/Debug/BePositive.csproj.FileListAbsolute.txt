@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\BePositive\bin\Debug\BePositive.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\BePositive\bin\Debug\BePositive.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\BePositive\bin\Debug\BePositive.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\BePositive\obj\Debug\BePositive.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Git, GitHub, Debugging, Searching - Lab\Debugging, Searching - Lab\BePositive\obj\Debug\BePositive.pdb

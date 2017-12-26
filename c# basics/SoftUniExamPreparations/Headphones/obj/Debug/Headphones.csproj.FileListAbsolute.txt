@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Headphones\bin\Debug\Headphones.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\Headphones\bin\Debug\Headphones.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Headphones\bin\Debug\Headphones.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\Headphones\obj\Debug\Headphones.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\Headphones\obj\Debug\Headphones.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Headphones\obj\Debug\Headphones.pdb

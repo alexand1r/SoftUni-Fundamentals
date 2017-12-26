@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\TorrentPirate\bin\Debug\TorrentPirate.exe.config
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\TorrentPirate\bin\Debug\TorrentPirate.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\TorrentPirate\bin\Debug\TorrentPirate.pdb
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\TorrentPirate\obj\Debug\TorrentPirate.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\TorrentPirate\obj\Debug\TorrentPirate.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\TorrentPirate\obj\Debug\TorrentPirate.pdb

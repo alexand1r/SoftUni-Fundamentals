@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\LocalElections\bin\Debug\LocalElections.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\LocalElections\bin\Debug\LocalElections.exe
+E:\softuni\real\c#\SoftUniExamPreparations\LocalElections\bin\Debug\LocalElections.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\LocalElections\obj\Debug\LocalElections.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\LocalElections\obj\Debug\LocalElections.exe
+E:\softuni\real\c#\SoftUniExamPreparations\LocalElections\obj\Debug\LocalElections.pdb

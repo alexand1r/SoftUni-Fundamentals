@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Console-Input-Output-Homework\MagicWand\bin\Debug\MagicWand.exe.config
+E:\softuni\real\c#\Console-Input-Output-Homework\MagicWand\bin\Debug\MagicWand.exe
+E:\softuni\real\c#\Console-Input-Output-Homework\MagicWand\bin\Debug\MagicWand.pdb
+E:\softuni\real\c#\Console-Input-Output-Homework\MagicWand\obj\Debug\MagicWand.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Console-Input-Output-Homework\MagicWand\obj\Debug\MagicWand.exe
+E:\softuni\real\c#\Console-Input-Output-Homework\MagicWand\obj\Debug\MagicWand.pdb

@@ -1,0 +1,9 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Tribonacci\bin\Debug\Tribonacci.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\Tribonacci\bin\Debug\Tribonacci.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Tribonacci\bin\Debug\Tribonacci.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\Tribonacci\obj\Debug\Tribonacci.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\Tribonacci\obj\Debug\Tribonacci.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Tribonacci\obj\Debug\Tribonacci.pdb
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\Tribonacci\bin\Debug\Tribonacci.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\Tribonacci\obj\Debug\Tribonacci.exe
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\Tribonacci\obj\Debug\Tribonacci.pdb

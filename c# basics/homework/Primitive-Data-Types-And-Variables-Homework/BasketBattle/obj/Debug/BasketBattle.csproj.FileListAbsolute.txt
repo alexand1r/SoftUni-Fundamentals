@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BasketBattle\bin\Debug\BasketBattle.exe.config
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BasketBattle\bin\Debug\BasketBattle.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BasketBattle\bin\Debug\BasketBattle.pdb
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BasketBattle\obj\Debug\BasketBattle.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BasketBattle\obj\Debug\BasketBattle.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BasketBattle\obj\Debug\BasketBattle.pdb

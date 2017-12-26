@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\ChessboardGame\bin\Debug\ChessboardGame.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\ChessboardGame\bin\Debug\ChessboardGame.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\ChessboardGame\bin\Debug\ChessboardGame.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\ChessboardGame\obj\Debug\ChessboardGame.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\ChessboardGame\obj\Debug\ChessboardGame.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\ChessboardGame\obj\Debug\ChessboardGame.pdb

@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Lists and Matrices\Lists and Matrices\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

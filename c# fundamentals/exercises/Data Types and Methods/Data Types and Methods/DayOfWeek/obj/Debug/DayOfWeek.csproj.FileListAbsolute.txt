@@ -1,0 +1,1 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\DayOfWeek\bin\Debug\DayOfWeek.exe.config

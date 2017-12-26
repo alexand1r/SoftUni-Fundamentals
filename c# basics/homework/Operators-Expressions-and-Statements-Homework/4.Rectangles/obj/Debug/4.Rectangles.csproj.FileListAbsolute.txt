@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\4.Rectangles\bin\Debug\4.Rectangles.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\4.Rectangles\bin\Debug\4.Rectangles.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\4.Rectangles\bin\Debug\4.Rectangles.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\4.Rectangles\obj\Debug\4.Rectangles.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\4.Rectangles\obj\Debug\4.Rectangles.pdb

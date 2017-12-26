@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\SumMinMaxFirstLastAverage\bin\Debug\SumMinMaxFirstLastAverage.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\SumMinMaxFirstLastAverage\bin\Debug\SumMinMaxFirstLastAverage.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\SumMinMaxFirstLastAverage\bin\Debug\SumMinMaxFirstLastAverage.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\SumMinMaxFirstLastAverage\obj\Debug\SumMinMaxFirstLastAverage.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\SumMinMaxFirstLastAverage\obj\Debug\SumMinMaxFirstLastAverage.pdb

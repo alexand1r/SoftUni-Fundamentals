@@ -1,0 +1,1 @@
+E:\softuni\real\c#\SoftUniExamPreparations\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe.config

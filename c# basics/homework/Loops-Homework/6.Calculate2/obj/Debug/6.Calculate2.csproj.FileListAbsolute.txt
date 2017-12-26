@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Loops-Homework\6.Calculate2\bin\Debug\6.Calculate2.exe.config
+E:\softuni\real\c#\Loops-Homework\6.Calculate2\bin\Debug\6.Calculate2.exe
+E:\softuni\real\c#\Loops-Homework\6.Calculate2\bin\Debug\6.Calculate2.pdb
+E:\softuni\real\c#\Loops-Homework\6.Calculate2\obj\Debug\6.Calculate2.exe
+E:\softuni\real\c#\Loops-Homework\6.Calculate2\obj\Debug\6.Calculate2.pdb

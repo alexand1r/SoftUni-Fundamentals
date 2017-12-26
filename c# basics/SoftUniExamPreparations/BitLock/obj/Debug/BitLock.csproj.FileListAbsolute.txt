@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\BitLock\bin\Debug\BitLock.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\BitLock\bin\Debug\BitLock.exe
+E:\softuni\real\c#\SoftUniExamPreparations\BitLock\bin\Debug\BitLock.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\BitLock\obj\Debug\BitLock.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\BitLock\obj\Debug\BitLock.exe
+E:\softuni\real\c#\SoftUniExamPreparations\BitLock\obj\Debug\BitLock.pdb

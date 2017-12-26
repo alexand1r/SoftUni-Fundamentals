@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeFloatingPoints\bin\Debug\PracticeFloatingPoints.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeFloatingPoints\bin\Debug\PracticeFloatingPoints.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeFloatingPoints\bin\Debug\PracticeFloatingPoints.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeFloatingPoints\obj\Debug\PracticeFloatingPoints.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeFloatingPoints\obj\Debug\PracticeFloatingPoints.pdb

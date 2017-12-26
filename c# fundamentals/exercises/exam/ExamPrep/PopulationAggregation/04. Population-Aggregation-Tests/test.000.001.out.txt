@@ -1,0 +1,3 @@
+Bulgaria -> 2
+burgas -> 4456576
+sofia -> 123000

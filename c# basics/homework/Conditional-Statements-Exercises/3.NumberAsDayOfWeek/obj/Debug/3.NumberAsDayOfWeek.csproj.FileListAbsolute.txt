@@ -1,0 +1,5 @@
+E:\softuni\real\c#\Conditional-Statements-Exercises\3.NumberAsDayOfWeek\bin\Debug\3.NumberAsDayOfWeek.exe.config
+E:\softuni\real\c#\Conditional-Statements-Exercises\3.NumberAsDayOfWeek\bin\Debug\3.NumberAsDayOfWeek.exe
+E:\softuni\real\c#\Conditional-Statements-Exercises\3.NumberAsDayOfWeek\bin\Debug\3.NumberAsDayOfWeek.pdb
+E:\softuni\real\c#\Conditional-Statements-Exercises\3.NumberAsDayOfWeek\obj\Debug\3.NumberAsDayOfWeek.exe
+E:\softuni\real\c#\Conditional-Statements-Exercises\3.NumberAsDayOfWeek\obj\Debug\3.NumberAsDayOfWeek.pdb

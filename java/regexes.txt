@@ -1,0 +1,93 @@
+#([A-Za-z]+):\s*@([A-Za-z]+)\s*(([0-1]?[0-9]|[2][0-3]):([0-5][0-9]))
+***********************************************************
+<(.*?)="(.*?)"\/>
+***********************************************************
+([A-Z][a-z]+).*?([A-Z][a-z]*[A-Z]).*?(\d+)L
+***********************************************************
+(.*?)\s@(.*?)\s(\d+)\s(\d+)
+***********************************************************
+(double|int)\\s+([a-z][a-zA-Z]*)
+***********************************************************
+[( )]+
+***********************************************************
+(\D+)(\d+)
+***********************************************************
+Collections.rotate(Arrays.asList(arr), 1);
+***********************************************************
+String firstPattern = "\\<\\s*([\\w]+)\\s+content\\s*\\=\\s*\"(.+)\\s*\"\\s*\\/\\>";
+        String secondPattern = "\\<\\s*([\\w]+)\\s+value\\s*\\=\\s*\"([0-9]+)\"\\s*content\\s*\\=\\s*\"(.+)\\s*\"\\s*\\/\\s*\\>";
+***********************************************************
+Souf("Doubles: %s\n", dooubles.size() > 0 ? String.join(", ", doubles//map.values()//) : "None");
+***********************************************************
+foo\Kbar
+***********************************************************
+Arrays.stream(letters)
+                        .map(e -> e.charAt(0))
+                        .toArray(Character[]::new);
+***********************************************************
+existingCards.addAll(Arrays.asList(inputCards));
+***********************************************************
+public String manipulateStr(String sourceStr) {
+    StringBuffer sb = new StringBuffer(sourceStr);
+    sb.delete(5,7); // Delete characters between index 5-7
+    sb.insert(10, "<inserted str>"); // Insert a new String
+    return sb.toString();
+}
+***********************************************************
+for (Map.Entry<String,LinkedHashMap<String,Long>> v : venues.entrySet()) {
+            System.out.println(v.getKey());
+
+            v.getValue().entrySet().stream()
+                    .sorted((s1, s2) -> s2.getValue().compareTo(s1.getValue()))
+                    .forEach((entry) -> {
+                        System.out.printf("#  %s -> %d%n", entry.getKey(), entry.getValue());
+                    });
+        }
+**********************************************************
+(\d+\.\d+\.\d+\.\d+)|IP=(\w+:\w+:\w+:\w+:\w+:\w+:\w+:\w+)
+**********************************************************
+\["(.*?)"\].*\["(.*?)"\].*\["(.*?)"\]
+**********************************************************
+criticalsList.sort(Comparator.<String>naturalOrder());
+criticalsList.sort((s1, s2) -> Integer.compare(s1.length(), s2.length()));
+**********************************************************
+tempList[i] = arr[(steps + i + 1) % arr.length];
+**********************************************************
+int value = Arrays.asList(values).indexOf(cardFace) * 10;
+**********************************************************
+System.out.print(points.get(score).keySet());
+double sum = 0;
+for (double grade : points.get(score).values()) {
+	sum += grade;
+}
+double avg = sum / points.get(score).values().size();
+**********************************************************
+int startRow = Math.Max(0, impactRow - 1);
+int endRow = Math.Min(impactRow + 1, numberOfRows - 1);
+int startCol = Math.Max(0, impactCol - 1);
+int endCol = Math.Min(impactCol + 1, numberOfColumns - 1);
+**********************************************************
+wins.entrySet().stream()
+                .sorted((s1, s2) -> s2.getValue().compareTo(s1.getValue()))
+                .forEach(e -> {
+                    System.out.print(e.getKey() + " ");
+                    for (Map.Entry<String, LinkedHashMap<String, Integer>> entry : countries.entrySet()) {
+                        if (e.getKey().equals(entry.getKey())) {
+                            ArrayList<Integer> list = new ArrayList<Integer>();
+                            LinkedHashMap<String, Integer> players = countries.get(entry.getKey());
+                            int sum = 0;
+                            for (String player : players.keySet()) {
+                                sum += players.get(player);
+                            }
+                            System.out.printf("(%d participants): %d wins%n", sum, e.getValue());
+                        }
+                    }
+        });
+**********************************************************
+Comparator<String> cmp = new Comparator<String>() {
+        @Override
+        public int compare(String o1, String o2) {
+            return Integer.valueOf(o1).compareTo(Integer.valueOf(o2));
+        }
+    };
+    System.out.println("max : " + Collections.max(dirNo, cmp//null));

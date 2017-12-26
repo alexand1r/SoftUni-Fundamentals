@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeCharsAndStrings\obj\Debug\PracticeCharsAndStrings.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\PracticeCharsAndStrings\obj\Debug\PracticeCharsAndStrings.pdb

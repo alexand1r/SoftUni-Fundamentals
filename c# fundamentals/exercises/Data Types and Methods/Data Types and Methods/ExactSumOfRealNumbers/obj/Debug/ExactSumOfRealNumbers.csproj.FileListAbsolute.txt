@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Data Types and Methods\Data Types and Methods\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.pdb

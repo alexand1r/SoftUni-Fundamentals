@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Illuminati\bin\Debug\Illuminati.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\Illuminati\bin\Debug\Illuminati.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Illuminati\bin\Debug\Illuminati.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\Illuminati\obj\Debug\Illuminati.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\Illuminati\obj\Debug\Illuminati.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Illuminati\obj\Debug\Illuminati.pdb

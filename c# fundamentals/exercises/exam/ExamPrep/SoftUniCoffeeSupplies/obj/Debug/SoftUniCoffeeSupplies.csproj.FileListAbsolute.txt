@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\SoftUniCoffeeSupplies\bin\Debug\SoftUniCoffeeSupplies.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\SoftUniCoffeeSupplies\bin\Debug\SoftUniCoffeeSupplies.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\SoftUniCoffeeSupplies\bin\Debug\SoftUniCoffeeSupplies.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\SoftUniCoffeeSupplies\obj\Debug\SoftUniCoffeeSupplies.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\SoftUniCoffeeSupplies\obj\Debug\SoftUniCoffeeSupplies.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\SoftUniCoffeeSupplies\obj\Debug\SoftUniCoffeeSupplies.pdb

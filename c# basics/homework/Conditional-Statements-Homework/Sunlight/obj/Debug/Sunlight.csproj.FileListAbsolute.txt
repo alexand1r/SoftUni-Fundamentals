@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Conditional-Statements-Homework\Sunlight\bin\Debug\Sunlight.exe.config
+E:\softuni\real\c#\Conditional-Statements-Homework\Sunlight\bin\Debug\Sunlight.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\Sunlight\bin\Debug\Sunlight.pdb
+E:\softuni\real\c#\Conditional-Statements-Homework\Sunlight\obj\Debug\Sunlight.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Conditional-Statements-Homework\Sunlight\obj\Debug\Sunlight.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\Sunlight\obj\Debug\Sunlight.pdb

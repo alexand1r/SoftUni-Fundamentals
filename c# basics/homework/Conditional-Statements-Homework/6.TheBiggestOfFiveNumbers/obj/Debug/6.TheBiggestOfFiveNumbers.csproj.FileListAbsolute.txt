@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Conditional-Statements-Homework\6.TheBiggestOfFiveNumbers\bin\Debug\6.TheBiggestOfFiveNumbers.exe.config
+E:\softuni\real\c#\Conditional-Statements-Homework\6.TheBiggestOfFiveNumbers\bin\Debug\6.TheBiggestOfFiveNumbers.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\6.TheBiggestOfFiveNumbers\bin\Debug\6.TheBiggestOfFiveNumbers.pdb
+E:\softuni\real\c#\Conditional-Statements-Homework\6.TheBiggestOfFiveNumbers\obj\Debug\6.TheBiggestOfFiveNumbers.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Conditional-Statements-Homework\6.TheBiggestOfFiveNumbers\obj\Debug\6.TheBiggestOfFiveNumbers.exe
+E:\softuni\real\c#\Conditional-Statements-Homework\6.TheBiggestOfFiveNumbers\obj\Debug\6.TheBiggestOfFiveNumbers.pdb

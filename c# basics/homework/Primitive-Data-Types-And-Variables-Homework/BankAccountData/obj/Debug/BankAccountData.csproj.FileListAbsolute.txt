@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BankAccountData\bin\Debug\BankAccountData.exe.config
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BankAccountData\bin\Debug\BankAccountData.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BankAccountData\bin\Debug\BankAccountData.pdb
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BankAccountData\obj\Debug\BankAccountData.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BankAccountData\obj\Debug\BankAccountData.exe
+E:\softuni\real\c#\Primitive-Data-Types-And-Variables-Homework\BankAccountData\obj\Debug\BankAccountData.pdb

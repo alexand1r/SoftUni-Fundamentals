@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\JumpingSums\bin\Debug\JumpingSums.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\JumpingSums\bin\Debug\JumpingSums.exe
+E:\softuni\real\c#\SoftUniExamPreparations\JumpingSums\bin\Debug\JumpingSums.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\JumpingSums\obj\Debug\JumpingSums.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\JumpingSums\obj\Debug\JumpingSums.exe
+E:\softuni\real\c#\SoftUniExamPreparations\JumpingSums\obj\Debug\JumpingSums.pdb

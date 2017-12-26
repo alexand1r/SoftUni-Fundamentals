@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\Numerology\bin\Debug\Numerology.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\Numerology\bin\Debug\Numerology.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Numerology\bin\Debug\Numerology.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\Numerology\obj\Debug\Numerology.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\Numerology\obj\Debug\Numerology.exe
+E:\softuni\real\c#\SoftUniExamPreparations\Numerology\obj\Debug\Numerology.pdb

@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe.config
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.pdb
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+E:\softuni\real\c#\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb

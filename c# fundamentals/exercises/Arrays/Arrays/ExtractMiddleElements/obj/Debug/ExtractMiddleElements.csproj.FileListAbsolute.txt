@@ -1,0 +1,5 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\ExtractMiddleElements\bin\Debug\ExtractMiddleElements.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\ExtractMiddleElements\bin\Debug\ExtractMiddleElements.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\ExtractMiddleElements\bin\Debug\ExtractMiddleElements.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\ExtractMiddleElements\obj\Debug\ExtractMiddleElements.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\Arrays\Arrays\ExtractMiddleElements\obj\Debug\ExtractMiddleElements.pdb

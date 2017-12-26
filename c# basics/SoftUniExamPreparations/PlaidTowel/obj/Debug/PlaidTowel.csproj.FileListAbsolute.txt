@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\PlaidTowel\bin\Debug\PlaidTowel.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\PlaidTowel\bin\Debug\PlaidTowel.exe
+E:\softuni\real\c#\SoftUniExamPreparations\PlaidTowel\bin\Debug\PlaidTowel.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\PlaidTowel\obj\Debug\PlaidTowel.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\PlaidTowel\obj\Debug\PlaidTowel.exe
+E:\softuni\real\c#\SoftUniExamPreparations\PlaidTowel\obj\Debug\PlaidTowel.pdb

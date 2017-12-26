@@ -1,0 +1,9 @@
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\02.FootballStatistician\bin\Debug\02.FootballStatistician.exe.config
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\02.FootballStatistician\bin\Debug\02.FootballStatistician.exe
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\02.FootballStatistician\bin\Debug\02.FootballStatistician.pdb
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\02.FootballStatistician\obj\Debug\02.FootballStatistician.csprojResolveAssemblyReference.cache
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\02.FootballStatistician\obj\Debug\02.FootballStatistician.exe
+c:\users\vindzhev\documents\visual studio 2015\Projects\Solution2\02.FootballStatistician\obj\Debug\02.FootballStatistician.pdb
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\02.FootballStatistician\bin\Debug\02.FootballStatistician.exe.config
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\02.FootballStatistician\obj\Debug\02.FootballStatistician.exe
+E:\softuni\real\c#\stuff\ExamPrep\Solution2\02.FootballStatistician\obj\Debug\02.FootballStatistician.pdb

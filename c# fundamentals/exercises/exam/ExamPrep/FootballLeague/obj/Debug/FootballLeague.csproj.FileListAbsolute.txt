@@ -1,0 +1,6 @@
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\FootballLeague\bin\Debug\FootballLeague.exe.config
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\FootballLeague\bin\Debug\FootballLeague.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\FootballLeague\bin\Debug\FootballLeague.pdb
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\FootballLeague\obj\Debug\FootballLeague.exe
+E:\softuni\Fundamentals\c# fundamentals\exercises\exam\ExamPrep\FootballLeague\obj\Debug\FootballLeague.pdb

@@ -1,0 +1,9 @@
+D:\C#\Homework-ConsoleInputOutput\11.Dwarf\bin\Debug\11.Dwarf.exe
+D:\C#\Homework-ConsoleInputOutput\11.Dwarf\bin\Debug\11.Dwarf.pdb
+D:\C#\Homework-ConsoleInputOutput\11.Dwarf\obj\x86\Debug\11.Dwarf.exe
+D:\C#\Homework-ConsoleInputOutput\11.Dwarf\obj\x86\Debug\11.Dwarf.pdb
+D:\C#\Homework-ConsoleInputOutput\11.Dwarf\obj\x86\Debug\11.Dwarf.csprojResolveAssemblyReference.cache
+D:\SoftUni\W4\11.Dwarf\obj\x86\Debug\11.Dwarf.exe
+D:\SoftUni\W4\11.Dwarf\obj\x86\Debug\11.Dwarf.pdb
+E:\softuni\real\New folder\W4\11.Dwarf\obj\x86\Debug\11.Dwarf.exe
+E:\softuni\real\New folder\W4\11.Dwarf\obj\x86\Debug\11.Dwarf.pdb

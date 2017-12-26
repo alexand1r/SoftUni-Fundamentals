@@ -1,0 +1,6 @@
+E:\softuni\real\c#\SoftUniExamPreparations\BiggestTriple\bin\Debug\BiggestTriple.exe.config
+E:\softuni\real\c#\SoftUniExamPreparations\BiggestTriple\bin\Debug\BiggestTriple.exe
+E:\softuni\real\c#\SoftUniExamPreparations\BiggestTriple\bin\Debug\BiggestTriple.pdb
+E:\softuni\real\c#\SoftUniExamPreparations\BiggestTriple\obj\Debug\BiggestTriple.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\SoftUniExamPreparations\BiggestTriple\obj\Debug\BiggestTriple.exe
+E:\softuni\real\c#\SoftUniExamPreparations\BiggestTriple\obj\Debug\BiggestTriple.pdb

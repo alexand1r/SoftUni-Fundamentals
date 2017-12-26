@@ -1,0 +1,6 @@
+E:\softuni\real\c#\Loops-Homework\9.MatrixOfNumbers\bin\Debug\9.MatrixOfNumbers.exe.config
+E:\softuni\real\c#\Loops-Homework\9.MatrixOfNumbers\bin\Debug\9.MatrixOfNumbers.exe
+E:\softuni\real\c#\Loops-Homework\9.MatrixOfNumbers\bin\Debug\9.MatrixOfNumbers.pdb
+E:\softuni\real\c#\Loops-Homework\9.MatrixOfNumbers\obj\Debug\9.MatrixOfNumbers.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\Loops-Homework\9.MatrixOfNumbers\obj\Debug\9.MatrixOfNumbers.exe
+E:\softuni\real\c#\Loops-Homework\9.MatrixOfNumbers\obj\Debug\9.MatrixOfNumbers.pdb

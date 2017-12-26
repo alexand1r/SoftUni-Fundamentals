@@ -1,0 +1,2 @@
+E:\softuni\real\c#\SoftUniExamPreparations\DoubleDowns\bin\Debug\DoubleDowns.exe.config
+E:\softuni\Fundamentals\c#\SoftUniExamPreparations\DoubleDowns\bin\Debug\DoubleDowns.exe.config

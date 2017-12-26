@@ -1,0 +1,5 @@
+Bulgaria -> 3
+Germany -> 2
+hamburg -> 233333
+burgas -> 9999
+berlin -> 21

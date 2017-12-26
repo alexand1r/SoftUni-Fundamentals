@@ -1,0 +1,6 @@
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\9.RemoveNames\bin\Debug\9.RemoveNames.exe.config
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\9.RemoveNames\bin\Debug\9.RemoveNames.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\9.RemoveNames\bin\Debug\9.RemoveNames.pdb
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\9.RemoveNames\obj\Debug\9.RemoveNames.csprojResolveAssemblyReference.cache
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\9.RemoveNames\obj\Debug\9.RemoveNames.exe
+E:\softuni\real\c#\CSharp-Advanced-Topics-Homework\9.RemoveNames\obj\Debug\9.RemoveNames.pdb
